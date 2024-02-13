@@ -1,0 +1,2609 @@
+{
+    "Recipes": [
+      {
+        "id": 1,
+        "name": "Chicken Tikka",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Grilled or roasted marinated chicken with flavorful spices.",
+        "ingredients": [
+           "1.5 lbs boneless, skinless chicken thighs, cut into bite-sized pieces",
+           "1 cup plain yogurt",
+           "2 tablespoons ginger-garlic paste",
+           "2 tablespoons lemon juice",
+           "1 teaspoon garam masala",
+           "1 teaspoon cumin powder",
+           "1 teaspoon coriander powder",
+           "1/2 teaspoon turmeric powder",
+           "1/2 teaspoon cayenne pepper",
+           "1 teaspoon salt",
+           "Wooden or metal skewers"
+        ],
+        "instructions": [
+          "In a bowl, mix yogurt, ginger-garlic paste, lemon juice, garam masala, cumin powder, coriander powder, turmeric, cayenne pepper, and salt.",
+          "Add chicken pieces to the marinade, ensuring they are well-coated. Marinate for at least 2 hours or overnight.",
+          "Preheat grill or oven. Thread marinated chicken onto skewers.",
+          "Grill or roast until the chicken is fully cooked and has a nice char, about 15-20 minutes.",
+          "Serve hot with naan or rice."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Butter Chicken",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Creamy and rich tomato-based curry with tender chicken pieces.",
+        "ingredients": [
+           "1.5 lbs boneless, skinless chicken thighs, cut into bite-sized pieces",
+           "1/2 cup plain yogurt",
+           "1 cup tomato puree",
+           "1/2 cup heavy cream",
+          "4 tablespoons butter",
+           "1 large onion, finely chopped",
+           "2 tablespoons ginger-garlic paste",
+           "1 teaspoon garam masala",
+           "1 teaspoon cumin powder",
+           "1 teaspoon coriander powder",
+           "1/2 teaspoon chili powder",
+           "1 teaspoon salt",
+           "1 teaspoon dried fenugreek leaves (kasuri methi)",
+           "Fresh cilantro for garnish"
+      ],
+        "instructions": [
+          "In a bowl, marinate chicken with yogurt, ginger-garlic paste, garam masala, cumin powder, coriander powder, chili powder, and salt. Let it marinate for at least 1 hour.",
+          "In a pan, melt butter and sauté chopped onions until golden brown.",
+          "Add marinated chicken and cook until browned. Add tomato puree and simmer for 15-20 minutes.",
+          "Stir in heavy cream and fenugreek leaves. Simmer for an additional 5 minutes.",
+          "Garnish with fresh cilantro and serve with rice or naan."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Chicken Shawarma",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Marinated and grilled chicken, typically served in a flatbread wrap.",
+        "ingredients": [
+           "1.5 lbs boneless, skinless chicken thighs, thinly sliced",
+           "1/2 cup plain yogurt",
+           "3 tablespoons olive oil",
+           "4 cloves garlic, minced",
+           "1 teaspoon cumin powder",
+           "1 teaspoon coriander powder",
+           "1 teaspoon paprika",
+           "1/2 teaspoon turmeric powder",
+           "1/2 teaspoon cayenne pepper",
+           "2 tablespoons lemon juice",
+           "1 teaspoon salt",
+           "Flatbreads or pita for serving",
+           "Tzatziki sauce for serving",
+           "Diced tomatoes for garnish",
+           "Sliced onions for garnish"
+        ],
+        "instructions": [
+          "In a bowl, mix yogurt, olive oil, minced garlic, cumin powder, coriander powder, paprika, turmeric, cayenne pepper, lemon juice, and salt.",
+          "Add thinly sliced chicken to the marinade, ensuring it is well-coated. Marinate for at least 2 hours or overnight.",
+          "Preheat grill or skillet. Cook marinated chicken until fully cooked and slightly charred.",
+          "Warm flatbreads or pita. Fill with grilled chicken, diced tomatoes, sliced onions, and drizzle with tzatziki sauce.",
+          "Roll into wraps and serve hot."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Chicken Parmesan",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Breaded and baked chicken topped with marinara sauce and melted cheese.",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts",
+           "1 cup breadcrumbs",
+           "1/2 cup grated Parmesan cheese",
+           "2 eggs, beaten",
+           "2 cups marinara sauce",
+           "1 cup shredded mozzarella cheese",
+          "2 tablespoons olive oil",
+           "1 teaspoon salt",
+           "1/2 teaspoon black pepper",
+         "1 teaspoon Italian seasoning"
+        ],
+        "instructions": [
+          "Preheat oven to 375°F (190°C).",
+          "In a bowl, combine breadcrumbs, Parmesan cheese, salt, pepper, and Italian seasoning.",
+          "Dip each chicken breast in beaten eggs, then coat with the breadcrumb mixture.",
+          "Heat olive oil in an oven-safe skillet over medium-high heat. Brown chicken on both sides.",
+          "Pour marinara sauce over the chicken and sprinkle mozzarella cheese on top.",
+          "Transfer the skillet to the preheated oven and bake for 25-30 minutes or until chicken is cooked through.",
+          "Serve hot, optionally over pasta or with a side of vegetables."
+        ]
+      },
+      {
+        
+            "id": 5,
+            "name": "Lemon Garlic Roast Chicken",
+            "poster":"https://images.unsplash.com/photo-1615557960916-5f4791effe9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHJvYXN0fGVufDB8fDB8fHww",
+            "overview": "A roasted chicken with a zesty lemon and garlic marinade.",
+            "ingredients": [
+               "1 whole chicken (about 4-5 pounds)",
+              "1 lemon, sliced",
+               "6-8 garlic cloves, minced",
+              "2 tablespoons olive oil",
+               "1 tablespoon fresh rosemary, chopped",
+               "1 teaspoon salt",
+               "1/2 teaspoon black pepper"
+            ],
+            "instructions": [
+              "Preheat oven to 375°F (190°C).",
+              "Pat the chicken dry and season with salt and black pepper.",
+              "In a bowl, mix minced garlic, chopped rosemary, and olive oil. Rub this mixture over the chicken.",
+              "Place lemon slices under and over the chicken.",
+              "Roast in the preheated oven for 1 to 1.5 hours or until the internal temperature reaches 165°F (74°C).",
+              "Let the chicken rest for 10 minutes before carving.",
+              "Serve with roasted vegetables or your favorite side dishes."
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Honey Mustard Glazed Chicken",
+            "poster":"https://images.unsplash.com/photo-1615557960916-5f4791effe9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHJvYXN0fGVufDB8fDB8fHww",
+            "overview": "Grilled or baked chicken coated in a sweet and tangy honey mustard glaze.",
+            "ingredients": [
+               "8 chicken thighs, bone-in, skin-on",
+               "1/4 cup Dijon mustard",
+               "1/4 cup honey",
+               "2 tablespoons soy sauce",
+               "1 teaspoon garlic powder",
+               "1 teaspoon paprika",
+              "1/2 teaspoon salt",
+               "1/4 teaspoon black pepper"
+            ],
+            "instructions": [
+              "Preheat grill or oven to medium-high heat.",
+              "In a bowl, whisk together Dijon mustard, honey, soy sauce, garlic powder, paprika, salt, and black pepper.",
+              "Brush the honey mustard glaze over the chicken thighs.",
+              "Grill or bake the chicken for about 25-30 minutes, turning and basting with the glaze halfway through.",
+              "Ensure the internal temperature reaches 165°F (74°C).",
+              "Serve hot with your favorite sides."
+            ]
+          },
+          {
+            "id": 7,
+            "name": "Chicken Alfredo Pasta",
+            "poster":"https://images.unsplash.com/photo-1615557960916-5f4791effe9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHJvYXN0fGVufDB8fDB8fHww",
+            "overview": "Grilled chicken served over creamy Alfredo sauce and pasta.",
+            "ingredients": [
+               "2 boneless, skinless chicken breasts",
+               "8 oz fettuccine pasta",
+               "1 cup heavy cream",
+               "1 cup grated Parmesan cheese",
+               "2 tablespoons butter",
+               "3 cloves garlic, minced",
+              "1/2 teaspoon salt",
+               "1/4 teaspoon black pepper",
+               "2 tablespoons fresh parsley, chopped"
+            ],
+            "instructions": [
+              "Cook fettuccine pasta according to package instructions.",
+              "Season chicken breasts with salt and black pepper, then grill or pan-cook until fully cooked.",
+              "In a saucepan, melt butter, add minced garlic, and sauté until fragrant.",
+              "Pour in heavy cream, grated Parmesan cheese, salt, and black pepper. Stir until the sauce thickens.",
+              "Slice grilled chicken and place it over cooked fettuccine. Pour Alfredo sauce over the top.",
+              "Garnish with chopped parsley and serve hot."
+            ]
+          },
+          {
+            "id": 8,
+            "name": "Teriyaki Chicken Stir Fry",
+            "poster":"https://images.unsplash.com/photo-1615557960916-5f4791effe9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHJvYXN0fGVufDB8fDB8fHww",
+            "overview": "Chicken stir-fried with vegetables in a flavorful teriyaki sauce.",
+            "ingredients": [
+               "1 lb boneless, skinless chicken thighs, sliced",
+               "2 cups broccoli florets",
+              "1 cup sliced carrots",
+               "1 bell pepper, sliced",
+               "1/4 cup soy sauce",
+               "2 tablespoons hoisin sauce",
+               "1 tablespoon sesame oil",
+               "2 tablespoons brown sugar",
+               "3 cloves garlic, minced",
+               "1 tablespoon fresh ginger, grated",
+               "1 tablespoon cornstarch",
+               "1 tablespoon sesame seeds (for garnish)"
+    ],
+            "instructions": [
+              "In a bowl, mix soy sauce, hoisin sauce, sesame oil, brown sugar, minced garlic, grated ginger, and cornstarch.",
+              "Heat a wok or skillet over high heat. Add chicken and stir-fry until browned and cooked through.",
+              "Add vegetables and continue to stir-fry until they are tender-crisp.",
+              "Pour the teriyaki sauce over the chicken and vegetables. Stir until the sauce thickens.",
+              "Garnish with sesame seeds and serve over rice or noodles."
+            ]
+          },
+          {
+            "id": 9,
+            "name": "Buffalo Chicken Wraps",
+            "poster":"https://images.unsplash.com/photo-1615557960916-5f4791effe9d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y2hpY2tlbiUyMHJvYXN0fGVufDB8fDB8fHww",
+            "overview": "Spicy buffalo chicken, lettuce, and ranch dressing wrapped in a tortilla.",
+            "ingredients": [
+               "2 boneless, skinless chicken breasts, shredded",
+               "1/2 cup buffalo sauce",
+              "4 large flour tortillas",
+              "2 cups shredded lettuce",
+               "1 cup diced tomatoes",
+               "1/2 cup ranch dressing",
+               "1/2 cup crumbled blue cheese (optional)"
+            ],
+            "instructions": [
+              "In a bowl, mix shredded chicken with buffalo sauce until well coated.",
+              "Warm the flour tortillas in a dry skillet or microwave.",
+              "Divide the buffalo chicken among the tortillas. Top with shredded lettuce, diced tomatoes, and drizzle with ranch dressing.",
+              "Optional: Sprinkle crumbled blue cheese over the top.",
+              "Fold in the sides of each tortilla and roll them up into wraps.",
+              "Serve immediately and enjoy the spicy goodness!"
+            ]
+          },
+          {
+            "id": 10,
+            "name": "Paneer Butter Masala",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Creamy and rich tomato-based curry with cubes of paneer.",
+            "ingredients": [
+               "250g paneer, cubed",
+               "1 cup tomato puree",
+               "1/2 cup heavy cream",
+               "4 tablespoons butter",
+               "1 large onion, finely chopped",
+              "2 tablespoons ginger-garlic paste",
+               "1 teaspoon garam masala",
+              "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+              "1/2 teaspoon chili powder",
+               "10-12 cashews, soaked in warm water",
+               "1 teaspoon dried fenugreek leaves (kasuri methi)",
+               "1 teaspoon salt",
+               "Fresh cilantro for garnish"
+          ],
+            "instructions": [
+              "In a blender, grind soaked cashews into a smooth paste.",
+              "In a pan, melt butter and sauté chopped onions until golden brown.",
+              "Add ginger-garlic paste and sauté until the raw smell disappears.",
+              "Add tomato puree, cashew paste, garam masala, cumin powder, coriander powder, chili powder, and salt. Cook until the oil separates.",
+              "Add cubed paneer and cook for a few minutes until the paneer is heated through.",
+              "Stir in heavy cream and kasuri methi. Simmer for an additional 5 minutes.",
+              "Garnish with fresh cilantro and serve hot with naan or rice."
+            ]
+          },
+          {
+            "id": 11,
+            "name": "Palak Paneer",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Paneer cubes cooked in a creamy spinach (palak) gravy.",
+            "ingredients": [
+               "250g paneer, cubed",
+               "2 cups fresh spinach, blanched and pureed",
+               "1 large onion, thinly sliced",
+               "2 tomatoes, finely chopped",
+              "1-inch piece of ginger, grated",
+               "3 cloves garlic, minced",
+               "2 green chilies, chopped",
+               "1 teaspoon cumin seeds",
+               "1/2 teaspoon turmeric powder",
+               "1/2 teaspoon garam masala",
+               "1 teaspoon coriander powder",
+               "1-inch cinnamon stick",
+              "2 tablespoons cream",
+              "2 tablespoons ghee",
+               "1 teaspoon salt"
+            ],
+            "instructions": [
+              "In a pan, heat ghee and add cumin seeds. Once they splutter, add thinly sliced onions and sauté until golden brown.",
+              "Add grated ginger, minced garlic, and chopped green chilies. Sauté until the raw smell disappears.",
+              "Add finely chopped tomatoes and cook until they are soft and the oil separates.",
+              "Add turmeric powder, coriander powder, garam masala, and salt. Mix well.",
+              "Add blanched and pureed spinach. Mix well and let it simmer for 10 minutes.",
+              "Add cubed paneer and cream. Simmer for an additional 5 minutes.",
+              "Garnish with a swirl of cream and serve hot with roti or rice."
+            ]
+          },
+          {
+            "id": 12,
+            "name": "Kadai Paneer",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Spicy and flavorful paneer stir-fry with bell peppers and onions.",
+            "ingredients": [
+              "250g paneer, cubed",
+               "1 each of red, green, and yellow bell peppers, sliced",
+               "1 large onion, sliced",
+               "2 tomatoes, finely chopped",
+              "1 tablespoon ginger-garlic paste",
+               "2 green chilies, chopped",
+               "1 teaspoon coriander powder",
+               "1 teaspoon cumin powder",
+               "1/2 teaspoon turmeric powder",
+              "1/2 teaspoon garam masala",
+              "1 teaspoon dried fenugreek leaves (kasuri methi)",
+               "Fresh coriander leaves for garnish",
+               "2 tablespoons oil",
+               "1 teaspoon salt"
+            ],
+            "instructions": [
+              "In a pan, heat oil and sauté sliced onions until golden brown.",
+              "Add ginger-garlic paste and chopped green chilies. Sauté until the raw smell disappears.",
+              "Add finely chopped tomatoes, coriander powder, cumin powder, turmeric powder, garam masala, and salt. Cook until tomatoes are soft.",
+              "Add sliced bell peppers and cook until they are slightly tender but still have a crunch.",
+              "Add cubed paneer and kasuri methi. Mix well and cook for a few minutes until paneer is heated through.",
+              "Garnish with fresh coriander leaves and serve hot with naan or roti."
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Paneer Tikka Masala",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Grilled paneer cubes in a spiced tomato-based curry.",
+            "ingredients": [
+               "250g paneer, cubed",
+               "1/2 cup plain yogurt",
+              "2 tablespoons ginger-garlic paste",
+               "1 cup tomato puree",
+               "1/4 cup heavy cream",
+               "2 tablespoons butter",
+               "1 teaspoon dried fenugreek leaves (kasuri methi)",
+               "2 green chilies, chopped",
+               "1 teaspoon coriander powder",
+               "1 teaspoon cumin powder",
+               "1/2 teaspoon turmeric powder",
+              "1/2 teaspoon garam masala",
+               "1/2 teaspoon paprika",
+               "Fresh coriander leaves for garnish",
+               "1 teaspoon salt"
+    ],
+            "instructions": [
+              "In a bowl, mix yogurt, ginger-garlic paste, coriander powder, cumin powder, turmeric powder, garam masala, paprika, and salt.",
+              "Add cubed paneer to the marinade, ensuring it is well-coated. Marinate for at least 2 hours or overnight.",
+              "Preheat grill or skillet. Cook marinated paneer until fully cooked and slightly charred.",
+              "In a pan, melt butter. Add chopped green chilies and tomato puree. Cook until the oil separates.",
+              "Add grilled paneer, kasuri methi, and cream. Simmer for an additional 5 minutes.",
+              "Garnish with fresh coriander leaves and serve hot with naan or rice."
+            ]
+          },
+          {
+            "id": 14,
+            "name": "Paneer Bhurji",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Scrambled paneer cooked with onions, tomatoes, and spices.",
+            "ingredients": [
+               "250g paneer, crumbled",
+               "1 large onion, finely chopped",
+               "2 tomatoes, finely chopped",
+              "2 green chilies, chopped",
+               "1-inch piece of ginger, grated",
+               "3 cloves garlic, minced",
+              "1 teaspoon cumin seeds",
+               "1/2 teaspoon turmeric powder",
+              "1 teaspoon coriander powder",
+               "1/2 teaspoon cumin powder",
+              "1/2 teaspoon garam masala",
+              "1 teaspoon dried fenugreek leaves (kasuri methi)",
+               "Fresh coriander leaves for garnish",
+               "2 tablespoons oil",
+               "1 teaspoon salt"
+    ],
+            "instructions": [
+              "In a pan, heat oil and add cumin seeds. Once they splutter, add chopped onions and sauté until golden brown.",
+              "Add grated ginger, minced garlic, and chopped green chilies. Sauté until the raw smell disappears.",
+              "Add chopped tomatoes and cook until they are soft and the oil separates.",
+              "Add turmeric powder, coriander powder, cumin powder, garam masala, and salt. Mix well.",
+              "Add crumbled paneer and kasuri methi. Cook for a few minutes until the paneer is well-incorporated with the spices.",
+              "Garnish with fresh coriander leaves and serve hot with roti or paratha."
+            ]
+          },
+          {
+            "id": 15,
+            "name": "Paneer Pakora",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Paneer cubes coated in a spiced chickpea flour batter and deep-fried.",
+            "ingredients": [
+               "250g paneer, cut into cubes",
+               "1 cup chickpea flour (besan)",
+               "2 tablespoons rice flour",
+              "1/2 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "1/2 teaspoon ajwain (carom seeds)",
+               "1/4 teaspoon baking soda",
+               "1 teaspoon salt",
+               "1/2 cup water (or as needed for batter)",
+              "For deep frying",
+               "For sprinkling (optional)"
+            ],
+            "instructions": [
+              "In a bowl, mix chickpea flour, rice flour, turmeric powder, red chili powder, ajwain, baking soda, and salt.",
+              "Gradually add water to the dry ingredients to form a smooth, thick batter.",
+              "Dip paneer cubes into the batter, ensuring they are well-coated.",
+              "Heat oil in a pan for deep frying. Fry the coated paneer cubes until golden brown and crispy.",
+              "Remove and drain excess oil on a paper towel.",
+              "Sprinkle chaat masala if desired and serve hot with mint chutney or ketchup."
+            ]
+          },
+          {
+            "id": 16,
+            "name": "Paneer Pulao",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Fragrant rice cooked with paneer, vegetables, and aromatic spices.",
+            "ingredients": [
+               "200g paneer, cubed",
+             "1 cup basmati rice, soaked and drained",
+              "1 large onion, thinly sliced",
+               "1/2 cup green peas",
+               "1/2 cup carrots, diced",
+               "1/2 cup green beans, chopped",
+              "2 tablespoons ghee",
+               "1 teaspoon cumin seeds",
+              "1 bay leaf",
+               "3 cloves",
+               "2 cardamom pods",
+               "1-inch cinnamon stick",
+              "1/2 teaspoon turmeric powder",
+               "1/2 teaspoon garam masala",
+               "1 teaspoon salt",
+               "Fresh coriander leaves for garnish"
+            ],
+            "instructions": [
+              "In a pot, heat ghee and add cumin seeds, bay leaf, cloves, cardamom pods, and cinnamon stick.",
+              "Add thinly sliced onions and sauté until golden brown.",
+              "Add diced carrots, chopped green beans, and green peas. Sauté for a few minutes until the vegetables are slightly tender.",
+              "Add cubed paneer and soaked basmati rice. Stir well to coat the rice with the vegetables and paneer.",
+              "Add turmeric powder, garam masala, and salt. Mix well.",
+              "Pour in water (usually 2 cups for 1 cup of rice) and bring to a boil. Reduce heat, cover, and simmer until the rice is cooked and water is absorbed.",
+              "Garnish with fresh coriander leaves and serve hot with raita."
+            ]
+          },
+          {
+            "id": 17,
+            "name": "Matar Paneer",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Paneer and green peas cooked in a spiced tomato-based curry.",
+            "ingredients": {
+              "paneer": "250g paneer, cubed",
+              "greenPeas": "1 cup green peas",
+              "onion": "1 large onion, finely chopped",
+              "tomato": "2 tomatoes, finely chopped",
+              "gingerGarlicPaste": "1 tablespoon ginger-garlic paste",
+              "greenChilies": "2 green chilies, chopped",
+              "corianderPowder": "1 teaspoon coriander powder",
+              "cuminPowder": "1/2 teaspoon cumin powder",
+              "turmeric": "1/2 teaspoon turmeric powder",
+              "garamMasala": "1/2 teaspoon garam masala",
+              "kasuriMethi": "1 teaspoon dried fenugreek leaves (kasuri methi)",
+              "cream": "2 tablespoons cream",
+              "oil": "2 tablespoons oil",
+              "corianderLeaves": "Fresh coriander leaves for garnish",
+              "salt": "1 teaspoon salt"
+            },
+            "instructions": [
+              "In a pan, heat oil and add chopped onions. Sauté until golden brown.",
+              "Add ginger-garlic paste and chopped green chilies. Sauté until the raw smell disappears.",
+              "Add finely chopped tomatoes and cook until they are soft and the oil separates.",
+              "Add turmeric powder, coriander powder, cumin powder, garam masala, and salt. Mix well.",
+              "Add green peas and cubed paneer. Cook for a few minutes until the peas are tender and paneer is heated through.",
+              "Stir in cream and kasuri methi. Simmer for an additional 5 minutes.",
+              "Garnish with fresh coriander leaves and serve hot with naan or rice."
+            ]
+          },
+          {
+            "id": 18,
+            "name": "Paneer Chilli",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Indo-Chinese fusion dish with paneer, bell peppers, and a spicy sauce.",
+            "ingredients": {
+              "paneer": "250g paneer, cubed",
+              "bellPeppers": "1 each of red, green, and yellow bell peppers, sliced",
+              "onion": "1 large onion, thinly sliced",
+              "greenChilies": "2 green chilies, chopped",
+              "gingerGarlicPaste": "1 tablespoon ginger-garlic paste",
+              "soySauce": "1 tablespoon soy sauce",
+              "chiliGarlicSauce": "1 tablespoon chili garlic sauce",
+              "tomatoKetchup": "2 tablespoons tomato ketchup",
+              "cornFlour": "2 tablespoons cornflour",
+              "springOnions": "2 spring onions, chopped",
+              "oil": "2 tablespoons oil",
+              "salt": "1 teaspoon salt"
+            },
+            "instructions": [
+              "In a bowl, make a slurry by mixing cornflour with water.",
+              "Dip paneer cubes in the cornflour slurry and deep fry until golden brown. Set aside.",
+              "In a pan, heat oil and add thinly sliced onions. Sauté until they become translucent.",
+              "Add ginger-garlic paste and chopped green chilies. Sauté until the raw smell disappears.",
+              "Add sliced bell peppers and cook until they are slightly tender but still have a crunch.",
+              "Add soy sauce, chili garlic sauce, and tomato ketchup. Mix well.",
+              "Add fried paneer cubes and toss until the paneer is well-coated with the sauce.",
+              "Garnish with chopped spring onions and serve hot as an appetizer or with fried rice."
+            ]
+          },
+          {
+            "id": 19,
+            "name": "Paneer Kofta",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Deep-fried paneer balls in a rich and creamy tomato-based curry.",
+            "ingredients": {
+              "paneer": "200g paneer, crumbled",
+              "potatoes": "2 medium-sized potatoes, boiled and mashed",
+              "onion": "1 large onion, finely chopped",
+              "gingerGarlicPaste": "1 tablespoon ginger-garlic paste",
+              "cashews": "10-12 cashews, soaked in warm water",
+              "cream": "1/4 cup heavy cream",
+              "tomato": "2 tomatoes, pureed",
+              "greenChilies": "2 green chilies, chopped",
+              "corianderPowder": "1 teaspoon coriander powder",
+              "cuminPowder": "1/2 teaspoon cumin powder",
+              "garamMasala": "1/2 teaspoon garam masala",
+              "kasuriMethi": "1 teaspoon dried fenugreek leaves (kasuri methi)",
+              "corianderLeaves": "Fresh coriander leaves for garnish",
+              "oil": "For deep frying",
+              "salt": "1 teaspoon salt"
+            },
+            "instructions": [
+              "In a large bowl, mix crumbled paneer, mashed potatoes, chopped onions, ginger-garlic paste, chopped green chilies, coriander powder, cumin powder, garam masala, and salt.",
+              "Shape the mixture into small balls and deep fry until golden brown. Set aside.",
+              "In a pan, heat oil and add chopped onions. Sauté until golden brown.",
+              "Add ginger-garlic paste and cook until the raw smell disappears.",
+              "Add tomato puree, soaked cashews, coriander powder, cumin powder, garam masala, and salt. Cook until the oil separates.",
+              "Stir in heavy cream and kasuri methi. Simmer for an additional 5 minutes.",
+              "Add the fried paneer balls to the curry and coat them with the sauce.",
+              "Garnish with fresh coriander leaves and serve hot with naan or rice."
+            ]
+          },
+          {
+            "id": 20,
+            "name": "Paneer Biryani",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Fragrant basmati rice cooked with paneer and aromatic spices.",
+            "ingredients": {
+              "paneer": "250g paneer, cubed",
+              "basmatiRice": "1 cup basmati rice, soaked and drained",
+              "onion": "2 large onions, thinly sliced",
+              "tomato": "2 tomatoes, finely chopped",
+              "yogurt": "1/2 cup plain yogurt",
+              "gingerGarlicPaste": "1 tablespoon ginger-garlic paste",
+              "greenChilies": "2 green chilies, chopped",
+              "biryaniMasala": "2 tablespoons biryani masala",
+              "mintLeaves": "A handful of mint leaves, chopped",
+              "corianderLeaves": "A handful of coriander leaves, chopped",
+              "ghee": "2 tablespoons ghee",
+              "oil": "2 tablespoons oil",
+              "bayLeaf": "1 bay leaf",
+              "cloves": "4 cloves",
+              "cardamomPods": "2 cardamom pods",
+              "cinnamonStick": "1-inch cinnamon stick",
+              "salt": "1 teaspoon salt",
+              "saffron": "A pinch of saffron strands soaked in warm milk",
+              "friedOnions": "For garnish"
+            },
+            "instructions": [
+              "In a pot, heat ghee and oil. Add bay leaf, cloves, cardamom pods, and cinnamon stick.",
+              "Add thinly sliced onions and sauté until golden brown.",
+              "Add chopped tomatoes, ginger-garlic paste, chopped green chilies, biryani masala, and salt. Cook until the tomatoes are soft.",
+              "Add cubed paneer and cook for a few minutes until the paneer is heated through.",
+              "In a separate pot, parboil basmati rice with salt. Drain the rice when it is 70% cooked.",
+              "In a layering fashion, assemble the biryani. Place a layer of partially cooked rice over the paneer mixture.",
+              "Sprinkle chopped mint leaves and coriander leaves. Drizzle saffron-infused milk over the rice.",
+              "Cover and cook on low heat until the rice is fully cooked and aromatic.",
+              "Garnish with fried onions and serve hot with raita."
+            ]
+          },
+          {
+            "id": 21,
+            "name": "Gulab Jamun",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Indian",
+            "overview": "Soft and spongy milk-based dumplings soaked in rose-flavored sugar syrup.",
+            "ingredients": {
+              "khoya": "1 cup khoya (reduced milk)",
+              "paneer": "1/4 cup paneer (cottage cheese), grated",
+              "allPurposeFlour": "2 tablespoons all-purpose flour",
+              "cardamomPowder": "1/2 teaspoon cardamom powder",
+              "ghee": "1 teaspoon ghee (clarified butter)",
+              "milk": "2 tablespoons milk (as needed to form a smooth dough)",
+              "sugar": "1 cup sugar",
+              "water": "1 cup water",
+              "roseWater": "1 teaspoon rose water",
+              "oil": "For deep frying"
+            },
+            "instructions": [
+              "In a mixing bowl, combine khoya, grated paneer, all-purpose flour, cardamom powder, and ghee.",
+              "Add milk gradually and knead the mixture into a smooth dough.",
+              "Divide the dough into small portions and shape them into round balls.",
+              "In a separate pan, combine sugar and water to make the sugar syrup. Add rose water and simmer until it reaches a one-string consistency.",
+              "Heat oil in a deep pan and deep fry the dough balls until golden brown.",
+              "Soak the fried balls in the sugar syrup for a few hours until they absorb the syrup.",
+              "Gulab Jamun is ready to be served!"
+            ]
+          },
+          {
+            "id": 22,
+            "name": "Rasgulla",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Indian",
+            "overview": "Light and spongy cottage cheese balls soaked in sugar syrup.",
+            "ingredients": {
+              "paneer": "1 cup paneer (cottage cheese), grated",
+              "semolina": "2 tablespoons semolina (suji)",
+              "cardamomPowder": "1/2 teaspoon cardamom powder",
+              "sugar": "1 cup sugar",
+              "water": "4 cups water",
+              "roseWater": "1 teaspoon rose water",
+              "saffronStrands": "A pinch of saffron strands",
+              "pistachios": "Chopped pistachios for garnish"
+            },
+            "instructions": [
+              "In a mixing bowl, combine grated paneer, semolina, and cardamom powder. Knead into a smooth dough.",
+              "Divide the dough into small portions and shape them into round balls.",
+              "In a separate pot, combine sugar and water. Bring it to a boil to make the sugar syrup. Add rose water and saffron strands.",
+              "Add the paneer balls to the boiling sugar syrup and cook covered for 15-20 minutes until they become spongy.",
+              "Allow the Rasgullas to cool and garnish with chopped pistachios.",
+              "Chill before serving."
+            ]
+          },
+          {
+            "id": 23,
+            "name": "Jalebi",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Indian",
+            "overview": "Deep-fried pretzel-shaped batter soaked in saffron-flavored sugar syrup.",
+            "ingredients": {
+              "allPurposeFlour": "1 cup all-purpose flour",
+              "yogurt": "1/2 cup yogurt",
+              "bakingPowder": "1/4 teaspoon baking powder",
+              "saffron": "A pinch of saffron strands",
+              "sugar": "1 cup sugar",
+              "water": "1/2 cup water",
+              "cardamomPowder": "1/2 teaspoon cardamom powder",
+              "ghee": "1 teaspoon ghee (for greasing)",
+              "oil": "For deep frying"
+            },
+            "instructions": [
+              "In a bowl, mix all-purpose flour, yogurt, and baking powder to make a thick batter. Allow it to ferment for a few hours or overnight.",
+              "In a separate pan, combine sugar and water to make the sugar syrup. Add saffron strands and cardamom powder. Bring it to a boil and then simmer until it reaches a one-string consistency.",
+              "Heat oil in a pan for deep frying.",
+              "Pour the batter into a squeeze bottle or piping bag. Squeeze the batter into hot oil in a pretzel shape.",
+              "Fry until the Jalebis are golden brown and crisp. Remove and immediately dip them into the sugar syrup.",
+              "Allow them to soak for a few minutes, and then serve warm."
+            ]
+          },
+          {
+            "id": 24,
+            "name": "Kheer",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Indian",
+            "overview": "Creamy rice pudding made with milk, rice, and flavored with cardamom.",
+            "ingredients": {
+              "rice": "1/4 cup basmati rice",
+              "milk": "4 cups milk",
+              "sugar": "1/2 cup sugar",
+              "cardamomPowder": "1/2 teaspoon cardamom powder",
+              "almonds": "10-12 almonds, chopped",
+              "pistachios": "10-12 pistachios, chopped",
+              "raisins": "1 tablespoon raisins",
+              "saffronStrands": "A pinch of saffron strands",
+              "ghee": "1 teaspoon ghee"
+            },
+            "instructions": [
+              "Wash the basmati rice and soak it in water for 30 minutes.",
+              "In a heavy-bottomed pan, heat ghee and add the soaked rice. Sauté for a few minutes until the rice turns golden.",
+              "Add milk to the rice and bring it to a boil. Simmer and cook until the rice is soft and the milk thickens.",
+              "Add sugar, cardamom powder, chopped almonds, pistachios, raisins, and saffron strands. Mix well and cook for an additional 10 minutes.",
+              "Remove from heat and let it cool. Kheer thickens as it cools.",
+              "Serve chilled, garnished with chopped nuts."
+            ]
+          },
+          {
+            "id": 25,
+            "name": "Malpua",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Indian",
+            "overview": "Deep-fried sweet pancakes served with rabri or sugar syrup.",
+            "ingredients": {
+              "allPurposeFlour": "1 cup all-purpose flour",
+              "milkPowder": "2 tablespoons milk powder",
+              "milk": "1 cup milk",
+              "fennelSeeds": "1 teaspoon fennel seeds",
+              "sugar": "1/2 cup sugar",
+              "water": "1/2 cup water",
+              "cardamomPowder": "1/2 teaspoon cardamom powder",
+              "ghee": "For frying",
+              "pistachios": "Chopped pistachios for garnish"
+            },
+            "instructions": [
+              "In a bowl, mix all-purpose flour, milk powder, and fennel seeds. Gradually add milk to make a smooth batter.",
+              "Heat ghee in a pan. Pour a ladleful of batter into the hot ghee to make a small pancake (malpua). Fry until golden brown on both sides.",
+              "In a separate pan, combine sugar and water to make a sugar syrup. Add cardamom powder and simmer until it reaches a one-string consistency.",
+              "Dip the fried malpuas into the sugar syrup, ensuring they are well-coated.",
+              "Serve malpuas garnished with chopped pistachios.",
+              "Enjoy these sweet pancakes with rabri or as is."
+            ]
+          },
+          {
+            "id": 26,
+            "name": "Tiramisu",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Italian",
+            "overview": "Layered coffee-flavored Italian dessert made with ladyfingers and mascarpone cheese.",
+            "ingredients": {
+              "ladyfingers": "24 ladyfinger cookies",
+              "espresso": "1 cup strong brewed espresso, cooled",
+              "mascarponeCheese": "1 and 1/2 cups mascarpone cheese",
+              "heavyCream": "1 cup heavy cream",
+              "sugar": "1/2 cup granulated sugar",
+              "cocoaPowder": "2 tablespoons cocoa powder",
+              "vanillaExtract": "1 teaspoon vanilla extract"
+            },
+            "instructions": [
+              "In a mixing bowl, combine mascarpone cheese and sugar. Mix until smooth and well combined.",
+              "In a separate bowl, whip heavy cream until stiff peaks form.",
+              "Gently fold the whipped cream into the mascarpone mixture until smooth and creamy.",
+              "Dip each ladyfinger into the brewed espresso and layer them in the bottom of a serving dish.",
+              "Spread half of the mascarpone mixture over the ladyfingers layer.",
+              "Repeat the process with another layer of dipped ladyfingers and the remaining mascarpone mixture.",
+              "Sift cocoa powder over the top layer and refrigerate for at least 4 hours or overnight.",
+              "Slice and serve chilled. Tiramisu is ready to be enjoyed!"
+            ]
+          },
+          {
+            "id": 27,
+            "name": "Creme Brulee",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "French",
+            "overview": "Classic French dessert with a rich custard base and a caramelized sugar top.",
+            "ingredients": {
+              "heavyCream": "2 cups heavy cream",
+              "vanillaBean": "1 vanilla bean, split and seeds scraped",
+              "eggYolks": "5 large egg yolks",
+              "sugar": "1/2 cup granulated sugar",
+              "brownSugar": "2 tablespoons brown sugar"
+            },
+            "instructions": [
+              "Preheat oven to 325°F (163°C). Place ramekins in a baking dish and set aside.",
+              "In a saucepan, heat heavy cream and vanilla bean (including the scraped seeds) until it just begins to boil. Remove from heat and let it steep for 15 minutes.",
+              "In a bowl, whisk together egg yolks and sugar until well combined.",
+              "Slowly pour the warm cream mixture over the egg yolk mixture, whisking constantly to prevent curdling.",
+              "Strain the custard through a fine-mesh sieve into a pouring jug.",
+              "Pour the custard into the ramekins. Fill the baking dish with hot water to create a water bath.",
+              "Bake in the preheated oven for 40-45 minutes or until the custard is set but still slightly jiggly in the center.",
+              "Remove from the water bath and let it cool. Refrigerate for at least 2 hours or overnight.",
+              "Sprinkle a thin, even layer of brown sugar over the custard and caramelize using a kitchen torch.",
+              "Serve immediately and enjoy the creamy goodness of Creme Brulee!"
+            ]
+          },
+          {
+            "id": 28,
+            "name": "Churros",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Spanish",
+            "overview": "Fried dough pastries dusted with cinnamon sugar, often served with chocolate sauce.",
+            "ingredients": {
+              "water": "1 cup water",
+              "butter": "1/2 cup unsalted butter",
+              "allPurposeFlour": "1 cup all-purpose flour",
+              "eggs": "3 large eggs",
+              "vanillaExtract": "1 teaspoon vanilla extract",
+              "sugar": "1/4 cup granulated sugar",
+              "cinnamon": "1 teaspoon ground cinnamon",
+              "oil": "For frying"
+            },
+            "instructions": [
+              "In a saucepan, combine water, butter, and sugar. Bring it to a boil.",
+              "Reduce heat and add all-purpose flour. Stir vigorously until the mixture forms a smooth ball.",
+              "Remove from heat and let it cool for a few minutes. Add eggs one at a time, beating well after each addition.",
+              "Stir in vanilla extract. Transfer the dough to a piping bag with a star tip.",
+              "Heat oil in a pan for frying. Pipe the dough into hot oil, cutting it with scissors or a knife to your desired length.",
+              "Fry until golden brown and crispy. Drain on paper towels.",
+              "In a bowl, mix sugar and ground cinnamon. Roll the fried churros in the cinnamon sugar mixture.",
+              "Serve warm with chocolate sauce for dipping."
+            ]
+          },
+          {
+            "id": 29,
+            "name": "Baklava",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Middle Eastern",
+            "overview": "Layered phyllo pastry filled with chopped nuts and sweetened with honey or syrup.",
+            "ingredients": {
+              "phylloDough": "1 package phyllo dough, thawed",
+              "nuts": "2 cups mixed nuts (walnuts, pistachios, almonds), chopped",
+              "butter": "1 cup unsalted butter, melted",
+              "sugar": "1 cup granulated sugar",
+              "cinnamon": "1 teaspoon ground cinnamon",
+              "honey": "1 cup honey",
+              "water": "1/2 cup water",
+              "lemonJuice": "1 tablespoon lemon juice"
+            },
+            "instructions": [
+              "Preheat oven to 325°F (163°C). Grease a baking dish and set aside.",
+              "In a bowl, mix chopped nuts, sugar, and ground cinnamon. Set aside.",
+              "Place one sheet of phyllo dough in the prepared baking dish and brush with melted butter. Repeat with several more sheets of phyllo dough.",
+              "Spread a portion of the nut mixture over the phyllo layers. Repeat the process, layering phyllo and nuts, until all the nut mixture is used.",
+              "Finish with a final layer of phyllo dough, brushing each sheet with butter.",
+              "Using a sharp knife, cut the baklava into diamond or square shapes before baking.",
+              "Bake in the preheated oven for 45-50 minutes or until golden brown.",
+              "While the baklava is baking, combine honey, water, and lemon juice in a saucepan. Bring to a boil and then simmer for 10 minutes.",
+              "Once baked, pour the hot syrup over the hot baklava. Allow it to cool and absorb the syrup before serving."
+            ]
+          },
+          {
+            "id": 30,
+            "name": "Mango Sticky Rice",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "type": "Thai",
+            "overview": "Sweet and creamy dessert featuring sticky rice topped with ripe mango slices.",
+            "ingredients": {
+              "stickyRice": "1 cup glutinous rice, soaked for at least 6 hours or overnight",
+              "coconutMilk": "1 cup coconut milk",
+              "sugar": "1/2 cup sugar",
+              "salt": "1/4 teaspoon salt",
+              "mangoes": "2 ripe mangoes, peeled, pitted, and sliced",
+              "sesameSeeds": "Toasted sesame seeds for garnish"
+            },
+            "instructions": [
+              "Rinse the soaked glutinous rice and steam it until fully cooked.",
+              "In a saucepan, heat coconut milk, sugar, and salt. Stir until the sugar dissolves.",
+              "Transfer the cooked sticky rice to a bowl and pour half of the coconut milk mixture over it. Allow it to soak for 30 minutes.",
+              "Slice the ripe mangoes.",
+              "Serve the sticky rice topped with mango slices. Drizzle the remaining coconut milk mixture over the top.",
+              "Garnish with toasted sesame seeds and enjoy this delightful Thai dessert!"
+            ]
+          },
+          {
+            "id": 31,
+            "name": "Mashed Potatoes",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Creamy mashed potatoes made with butter and milk.",
+            "ingredients": {
+              "potatoes": "4 large potatoes, peeled and diced",
+              "butter": "1/2 cup unsalted butter",
+              "milk": "1/2 cup milk",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper",
+              "chives": "Chopped chives for garnish"
+            },
+            "instructions": [
+              "Boil the diced potatoes in salted water until tender. Drain and return them to the pot.",
+              "Add butter, milk, salt, and black pepper to the potatoes.",
+              "Mash the potatoes until smooth and creamy.",
+              "Adjust the seasoning to taste and garnish with chopped chives.",
+              "Serve the mashed potatoes hot as a delicious side dish."
+            ]
+          },
+          {
+            "id": 32,
+            "name": "Roasted Garlic Potatoes",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Oven-roasted potatoes with a flavorful garlic coating.",
+            "ingredients": {
+              "potatoes": "2 pounds baby potatoes, halved",
+              "oliveOil": "3 tablespoons olive oil",
+              "garlic": "6 cloves garlic, minced",
+              "rosemary": "1 tablespoon fresh rosemary, chopped",
+              "thyme": "1 tablespoon fresh thyme leaves",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper",
+              "parsley": "Chopped parsley for garnish"
+            },
+            "instructions": [
+              "Preheat oven to 400°F (200°C).",
+              "In a bowl, toss halved baby potatoes with olive oil, minced garlic, rosemary, thyme, salt, and black pepper.",
+              "Spread the potatoes on a baking sheet in a single layer.",
+              "Roast in the preheated oven for 30-35 minutes or until the potatoes are golden and crispy.",
+              "Garnish with chopped parsley and serve as a delightful side dish."
+            ]
+          },
+          {
+            "id": 33,
+            "name": "Potato Leek Soup",
+            "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+            "overview": "Creamy soup made with potatoes, leeks, and broth.",
+            "ingredients": {
+              "potatoes": "3 large potatoes, peeled and diced",
+              "leeks": "2 leeks, cleaned and sliced",
+              "onion": "1 onion, diced",
+              "garlic": "2 cloves garlic, minced",
+              "chickenBroth": "4 cups chicken broth",
+              "bayLeaf": "1 bay leaf",
+              "thyme": "1 teaspoon fresh thyme leaves",
+              "cream": "1/2 cup heavy cream",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper",
+              "chives": "Chopped chives for garnish"
+            },
+            "instructions": [
+              "In a pot, sauté diced potatoes, sliced leeks, diced onion, and minced garlic until softened.",
+              "Add chicken broth, bay leaf, and thyme. Bring to a boil and then simmer until potatoes are fully cooked.",
+              "Remove the bay leaf and blend the soup until smooth using an immersion blender.",
+              "Stir in heavy cream, salt, and black pepper. Simmer for an additional 5 minutes.",
+              "Adjust seasoning to taste and garnish with chopped chives.",
+              "Serve the creamy potato leek soup hot."
+            ]
+          },
+          {
+            "id": 34,
+            "name": "Hasselback Potatoes",
+            "overview": "Baked potatoes with sliced edges, creating a crispy and accordion-like texture.",
+            "ingredients": {
+              "potatoes": "4 large russet potatoes, scrubbed",
+              "butter": "1/4 cup unsalted butter, melted",
+              "oliveOil": "2 tablespoons olive oil",
+              "garlic": "2 cloves garlic, minced",
+              "rosemary": "1 tablespoon fresh rosemary, chopped",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper",
+              "parmesan": "1/2 cup grated parmesan cheese",
+              "chives": "Chopped chives for garnish"
+            },
+            "instructions": [
+              "Preheat oven to 425°F (220°C).",
+              "Slice each scrubbed potato thinly, leaving the bottom intact to create a fan-like appearance.",
+              "In a bowl, mix melted butter, olive oil, minced garlic, chopped rosemary, salt, and black pepper.",
+              "Brush the potatoes with the butter mixture, making sure to get in between the slices.",
+              "Bake in the preheated oven for 50-60 minutes or until the edges are crispy and the inside is tender.",
+              "Sprinkle grated parmesan cheese over the top and bake for an additional 5 minutes until melted and golden.",
+              "Garnish with chopped chives and serve the hasselback potatoes hot."
+            ]
+          },
+          {
+            "id": 35,
+            "name": "Potato Gnocchi",
+            "overview": "Soft potato dumplings served with your favorite sauce.",
+            "ingredients": {
+              "potatoes": "2 pounds russet potatoes, baked and mashed",
+              "egg": "1 large egg, beaten",
+              "allPurposeFlour": "2 cups all-purpose flour",
+              "salt": "1 teaspoon salt",
+              "nutmeg": "1/2 teaspoon ground nutmeg",
+              "butter": "2 tablespoons unsalted butter",
+              "sage": "Fresh sage leaves for garnish",
+              "parmesan": "Grated parmesan cheese for serving"
+            },
+            "instructions": [
+              "Bake and mash the russet potatoes. Allow them to cool slightly.",
+              "In a large bowl, combine mashed potatoes, beaten egg, all-purpose flour, salt, and ground nutmeg.",
+              "Knead the mixture until a dough forms. Divide the dough into smaller portions.",
+              "Roll each portion into a long rope and cut into bite-sized pieces to form the gnocchi.",
+              "Boil the gnocchi in salted water until they float to the surface. Remove and drain.",
+              "In a pan, melt butter and add fresh sage leaves. Sauté until the butter is golden brown.",
+              "Add the boiled gnocchi to the pan and toss until coated in the sage-infused butter.",
+              "Serve the potato gnocchi hot with grated parmesan cheese on top."
+            ]
+          },
+          {
+            "id": 36,
+            "name": "Classic Scrambled Eggs",
+            "overview": "Soft and fluffy scrambled eggs seasoned to perfection.",
+            "ingredients": {
+              "eggs": "4 large eggs",
+              "butter": "2 tablespoons unsalted butter",
+              "milk": "2 tablespoons milk",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper",
+              "chives": "Chopped chives for garnish"
+            },
+            "instructions": [
+              "In a bowl, whisk together eggs, milk, salt, and black pepper until well combined.",
+              "Heat butter in a non-stick pan over medium heat until melted and foamy.",
+              "Pour the egg mixture into the pan and let it sit undisturbed for a moment. Stir occasionally until the eggs are soft and slightly creamy.",
+              "Adjust seasoning to taste and garnish with chopped chives.",
+              "Serve the classic scrambled eggs hot for a delicious and quick breakfast."
+            ]
+          },
+          {
+            "id": 37,
+            "name": "Egg Salad Sandwich",
+            "overview": "Creamy egg salad served between slices of bread.",
+            "ingredients": {
+              "eggs": "6 hard-boiled eggs, chopped",
+              "mayonnaise": "1/4 cup mayonnaise",
+              "mustard": "1 tablespoon Dijon mustard",
+              "greenOnion": "2 green onions, finely chopped",
+              "celery": "1/2 cup celery, finely diced",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper",
+              "bread": "Slices of bread for making sandwiches",
+              "lettuce": "Lettuce leaves for serving"
+            },
+            "instructions": [
+              "In a bowl, combine chopped hard-boiled eggs, mayonnaise, Dijon mustard, green onions, celery, salt, and black pepper.",
+              "Mix until well combined and creamy.",
+              "Spread the egg salad onto slices of bread and top with lettuce leaves to make sandwiches.",
+              "Serve the egg salad sandwiches chilled for a delightful lunch or snack."
+            ]
+          },
+          {
+            "id": 38,
+            "name": "Spanish Tortilla (Tortilla Española)",
+            "overview": "Classic Spanish omelette made with eggs, potatoes, and onions.",
+            "ingredients": {
+              "potatoes": "2 large potatoes, peeled and thinly sliced",
+              "onion": "1 large onion, thinly sliced",
+              "eggs": "6 large eggs",
+              "oliveOil": "1/4 cup olive oil",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper",
+              "parsley": "Chopped parsley for garnish"
+            },
+            "instructions": [
+              "Heat olive oil in a non-stick skillet over medium heat. Add sliced potatoes and onions, and cook until potatoes are tender but not browned.",
+              "In a bowl, beat eggs and season with salt and black pepper.",
+              "Add the cooked potatoes and onions to the beaten eggs and mix well.",
+              "Heat a little more olive oil in the skillet. Pour the egg and potato mixture into the skillet and spread it evenly.",
+              "Cook on low heat until the edges are set, then carefully flip the tortilla to cook the other side until fully set.",
+              "Garnish with chopped parsley and serve the Spanish tortilla warm or at room temperature."
+            ]
+          },
+          {
+            "id": 39,
+            "name": "Egg Fried Rice",
+            "overview": "Stir-fried rice with vegetables, protein, and scrambled eggs.",
+            "ingredients": {
+              "cookedRice": "3 cups cooked rice (preferably cold)",
+              "eggs": "3 large eggs, beaten",
+              "vegetables": "1 cup mixed vegetables (peas, carrots, corn)",
+              "soySauce": "2 tablespoons soy sauce",
+              "sesameOil": "1 tablespoon sesame oil",
+              "greenOnion": "2 green onions, chopped",
+              "garlic": "2 cloves garlic, minced",
+              "ginger": "1 teaspoon fresh ginger, grated",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Heat sesame oil in a wok or large skillet over medium-high heat. Add minced garlic and grated ginger, stir-fry for a minute until fragrant.",
+              "Add mixed vegetables and cook until slightly tender. Push the vegetables to one side of the wok.",
+              "Pour beaten eggs into the other side of the wok and scramble until just set.",
+              "Combine the scrambled eggs with the vegetables. Add cooked rice, soy sauce, salt, and black pepper. Stir-fry until well combined and heated through.",
+              "Garnish with chopped green onions and serve the egg fried rice hot as a main dish or side."
+            ]
+          },
+          {
+            "id": 40,
+            "name": "Eggs Benedict",
+            "overview": "Poached eggs served on English muffins with Canadian bacon and hollandaise sauce.",
+            "ingredients": {
+              "eggs": "4 large eggs",
+              "EnglishMuffins": "2 English muffins, split and toasted",
+              "CanadianBacon": "4 slices Canadian bacon, cooked",
+              "hollandaiseSauce": "1 cup hollandaise sauce",
+              "chives": "Chopped chives for garnish",
+              "salt": "Salt for poaching eggs",
+              "vinegar": "1 tablespoon white vinegar (for poaching eggs)"
+            },
+            "instructions": [
+              "Prepare hollandaise sauce and keep it warm.",
+              "Poach the eggs: Bring a pot of water to a simmer. Add a splash of vinegar. Crack each egg into a small bowl and gently slide it into the simmering water. Poach for 3-4 minutes until the whites are set but the yolks are still runny.",
+              "Remove poached eggs with a slotted spoon and drain on paper towels.",
+              "Assemble the Eggs Benedict: Place toasted English muffin halves on a plate. Top each half with a slice of Canadian bacon, a poached egg, and a generous spoonful of hollandaise sauce.",
+              "Garnish with chopped chives and serve the Eggs Benedict immediately."
+            ]
+          },
+          {
+            "id": 41,
+            "name": "Tomato Basil Pasta",
+            "overview": "Classic pasta dish with a flavorful tomato and basil sauce.",
+            "ingredients": {
+              "pasta": "8 ounces pasta of your choice",
+              "tomatoes": "4 large tomatoes, diced",
+              "garlic": "3 cloves garlic, minced",
+              "oliveOil": "1/4 cup olive oil",
+              "basil": "1 cup fresh basil leaves, chopped",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper",
+              "parmesan": "Grated parmesan cheese for serving"
+            },
+            "instructions": [
+              "Cook the pasta according to package instructions. Drain and set aside.",
+              "In a pan, heat olive oil over medium heat. Add minced garlic and sauté until fragrant.",
+              "Add diced tomatoes, salt, and black pepper. Cook until the tomatoes break down and release their juices.",
+              "Stir in chopped fresh basil and cook for an additional 2-3 minutes.",
+              "Toss the cooked pasta in the tomato and basil sauce until well coated.",
+              "Serve the tomato basil pasta hot, garnished with grated parmesan cheese."
+            ]
+          },
+          {
+            "id": 42,
+            "name": "Caprese Salad",
+            "overview": "Refreshing salad with tomatoes, fresh mozzarella, and basil.",
+            "ingredients": {
+              "tomatoes": "4 large tomatoes, sliced",
+              "mozzarella": "1 ball fresh mozzarella, sliced",
+              "basil": "1 cup fresh basil leaves",
+              "balsamicVinegar": "2 tablespoons balsamic vinegar",
+              "oliveOil": "2 tablespoons olive oil",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Arrange tomato and mozzarella slices alternately on a serving platter.",
+              "Tuck fresh basil leaves between the tomato and mozzarella slices.",
+              "In a small bowl, whisk together balsamic vinegar, olive oil, salt, and black pepper.",
+              "Drizzle the dressing over the Caprese salad just before serving.",
+              "Serve the Caprese salad as a light and flavorful appetizer or side dish."
+            ]
+          },
+          {
+            "id": 43,
+            "name": "Tomato Soup",
+            "overview": "Comforting and creamy tomato soup.",
+            "ingredients": {
+              "tomatoes": "6 large tomatoes, chopped",
+              "onion": "1 onion, chopped",
+              "carrot": "1 carrot, chopped",
+              "celery": "2 celery stalks, chopped",
+              "garlic": "3 cloves garlic, minced",
+              "vegetableBroth": "4 cups vegetable broth",
+              "tomatoPaste": "2 tablespoons tomato paste",
+              "cream": "1/2 cup heavy cream",
+              "oliveOil": "2 tablespoons olive oil",
+              "basil": "1/4 cup fresh basil, chopped",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper"
+            },
+            "instructions": [
+              "In a pot, heat olive oil over medium heat. Add chopped onion, carrot, celery, and garlic. Sauté until vegetables are softened.",
+              "Add chopped tomatoes, tomato paste, vegetable broth, salt, and black pepper. Bring to a boil and then simmer for 20-25 minutes.",
+              "Use an immersion blender to puree the soup until smooth.",
+              "Stir in heavy cream and fresh basil. Simmer for an additional 5 minutes.",
+              "Adjust seasoning to taste and serve the creamy tomato soup hot."
+            ]
+          },
+          {
+            "id": 44,
+            "name": "Bruschetta",
+            "overview": "Toasted bread with a topping of diced tomatoes, garlic, and basil.",
+            "ingredients": {
+              "baguette": "1 baguette, sliced",
+              "tomatoes": "4 medium tomatoes, diced",
+              "garlic": "2 cloves garlic, minced",
+              "basil": "1/4 cup fresh basil, chopped",
+              "oliveOil": "3 tablespoons olive oil",
+              "balsamicVinegar": "1 tablespoon balsamic vinegar",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Preheat the oven to 400°F (200°C). Place baguette slices on a baking sheet and toast in the oven until golden brown.",
+              "In a bowl, combine diced tomatoes, minced garlic, chopped fresh basil, olive oil, balsamic vinegar, salt, and black pepper.",
+              "Spoon the tomato mixture over the toasted baguette slices.",
+              "Serve the bruschetta as a tasty appetizer or snack."
+            ]
+          },
+          {
+            "id": 45,
+            "name": "Spaghetti Bolognese",
+            "overview": "Hearty pasta dish with a rich tomato and meat sauce.",
+            "ingredients": {
+              "spaghetti": "8 ounces spaghetti",
+              "groundBeef": "1 pound ground beef",
+              "onion": "1 onion, finely chopped",
+              "garlic": "3 cloves garlic, minced",
+              "tomatoPaste": "2 tablespoons tomato paste",
+              "tomatoSauce": "2 cups tomato sauce",
+              "redWine": "1/2 cup red wine",
+              "oregano": "1 teaspoon dried oregano",
+              "basil": "1 teaspoon dried basil",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper",
+              "parmesan": "Grated parmesan cheese for serving"
+            },
+            "instructions": [
+              "Cook the spaghetti according to package instructions. Drain and set aside.",
+              "In a pan, brown the ground beef over medium heat. Add chopped onion and minced garlic, sauté until softened.",
+              "Stir in tomato paste, tomato sauce, red wine, dried oregano, dried basil, salt, and black pepper.",
+              "Simmer the sauce for 15-20 minutes until it thickens and the flavors meld together.",
+              "Serve the Bolognese sauce over the cooked spaghetti, and sprinkle with grated parmesan cheese."
+            ]
+          },
+          {
+            "id": 46,
+            "name": "Garlic Butter Shrimp",
+            "overview": "Juicy shrimp cooked in a flavorful garlic butter sauce.",
+            "ingredients": {
+              "shrimp": "1 pound large shrimp, peeled and deveined",
+              "butter": "1/2 cup unsalted butter",
+              "garlic": "5 cloves garlic, minced",
+              "lemonJuice": "2 tablespoons lemon juice",
+              "parsley": "2 tablespoons fresh parsley, chopped",
+              "redPepperFlakes": "1/4 teaspoon red pepper flakes",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "In a pan, melt butter over medium heat. Add minced garlic and sauté until fragrant.",
+              "Add shrimp to the pan and cook until they turn pink, about 2-3 minutes per side.",
+              "Stir in lemon juice, chopped parsley, red pepper flakes, salt, and black pepper.",
+              "Cook for an additional 2 minutes until the flavors meld together.",
+              "Serve the garlic butter shrimp hot, with crusty bread for dipping."
+            ]
+          },
+          {
+            "id": 47,
+            "name": "Garlic Roasted Vegetables",
+            "overview": "Assorted vegetables roasted to perfection with garlic and herbs.",
+            "ingredients": {
+              "vegetables": "4 cups assorted vegetables (e.g., carrots, broccoli, bell peppers), chopped",
+              "oliveOil": "3 tablespoons olive oil",
+              "garlic": "4 cloves garlic, minced",
+              "rosemary": "1 tablespoon fresh rosemary, chopped",
+              "thyme": "1 tablespoon fresh thyme leaves",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper"
+            },
+            "instructions": [
+              "Preheat the oven to 425°F (220°C).",
+              "In a bowl, toss chopped vegetables with olive oil, minced garlic, chopped rosemary, chopped thyme, salt, and black pepper.",
+              "Spread the vegetables on a baking sheet in a single layer.",
+              "Roast in the preheated oven for 25-30 minutes or until the vegetables are golden and tender.",
+              "Serve the garlic roasted vegetables as a delicious and healthy side dish."
+            ]
+          },
+          {
+            "id": 48,
+            "name": "Garlic Herb Chicken",
+            "overview": "Succulent chicken breasts marinated with garlic and aromatic herbs.",
+            "ingredients": {
+              "chickenBreasts": "4 boneless, skinless chicken breasts",
+              "oliveOil": "1/4 cup olive oil",
+              "garlic": "6 cloves garlic, minced",
+              "rosemary": "1 tablespoon fresh rosemary, chopped",
+              "thyme": "1 tablespoon fresh thyme leaves",
+              "lemonZest": "1 tablespoon lemon zest",
+              "salt": "1 teaspoon salt",
+              "blackPepper": "1/2 teaspoon black pepper"
+            },
+            "instructions": [
+              "In a bowl, mix olive oil, minced garlic, chopped rosemary, chopped thyme, lemon zest, salt, and black pepper to create the marinade.",
+              "Place chicken breasts in a resealable plastic bag and pour the marinade over them. Seal the bag and refrigerate for at least 30 minutes.",
+              "Preheat a grill or grill pan over medium-high heat.",
+              "Grill the marinated chicken breasts for 6-7 minutes per side or until cooked through.",
+              "Serve the garlic herb chicken hot, garnished with additional fresh herbs."
+            ]
+          },
+          {
+            "id": 49,
+            "name": "Garlic Parmesan Pasta",
+            "overview": "Creamy pasta with a garlic-infused Parmesan cheese sauce.",
+            "ingredients": {
+              "pasta": "8 ounces pasta of your choice",
+              "butter": "1/4 cup unsalted butter",
+              "garlic": "4 cloves garlic, minced",
+              "heavyCream": "1 cup heavy cream",
+              "parmesan": "1 cup grated Parmesan cheese",
+              "parsley": "2 tablespoons fresh parsley, chopped",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Cook the pasta according to package instructions. Drain and set aside.",
+              "In a pan, melt butter over medium heat. Add minced garlic and sauté until fragrant.",
+              "Pour in heavy cream and bring it to a simmer. Stir in grated Parmesan cheese until the sauce is smooth.",
+              "Season the sauce with salt and black pepper. Add the cooked pasta and toss until well coated.",
+              "Garnish the garlic Parmesan pasta with chopped fresh parsley before serving."
+            ]
+          },
+          {
+            "id": 50,
+            "name": "Garlic Bread",
+            "overview": "Crusty bread slices slathered with garlic-infused butter.",
+            "ingredients": {
+              "baguette": "1 baguette, sliced",
+              "butter": "1/2 cup unsalted butter, softened",
+              "garlic": "6 cloves garlic, minced",
+              "parsley": "2 tablespoons fresh parsley, chopped",
+              "salt": "1/4 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Preheat the oven to 375°F (190°C).",
+              "In a bowl, mix softened butter, minced garlic, chopped parsley, salt, and black pepper to create the garlic butter.",
+              "Spread the garlic butter generously over each baguette slice.",
+              "Place the slices on a baking sheet and bake in the preheated oven for 10-12 minutes or until the edges are golden and crispy.",
+              "Serve the garlic bread warm as a perfect accompaniment to your favorite meal."
+            ]
+          },
+          {
+            "id": 51,
+            "name": "French Onion Soup",
+            "overview": "Rich and savory soup with caramelized onions and melted cheese.",
+            "ingredients": {
+              "onions": "4 large onions, thinly sliced",
+              "butter": "1/4 cup unsalted butter",
+              "beefBroth": "6 cups beef broth",
+              "redWine": "1/2 cup red wine",
+              "thyme": "1 tablespoon fresh thyme leaves",
+              "baguette": "1 baguette, sliced",
+              "gruyereCheese": "1 cup Gruyere cheese, grated",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "In a large pot, melt butter over medium heat. Add thinly sliced onions and cook until caramelized, about 20-25 minutes.",
+              "Pour in red wine to deglaze the pot, scraping up any browned bits from the bottom.",
+              "Add beef broth, fresh thyme leaves, salt, and black pepper. Bring to a simmer and let it cook for an additional 15-20 minutes.",
+              "Preheat the broiler. Ladle the soup into oven-safe bowls. Top each bowl with slices of baguette and a generous amount of grated Gruyere cheese.",
+              "Place the bowls under the broiler until the cheese is melted and golden brown.",
+              "Serve the French onion soup hot, with the cheesy top creating a delicious crust."
+            ]
+          },
+          {
+            "id": 52,
+            "name": "Caramelized Onion Tart",
+            "overview": "Flaky pastry crust topped with sweet and savory caramelized onions.",
+            "ingredients": {
+              "puffPastry": "1 sheet puff pastry, thawed",
+              "onions": "4 large onions, thinly sliced",
+              "butter": "2 tablespoons unsalted butter",
+              "oliveOil": "2 tablespoons olive oil",
+              "thyme": "1 teaspoon fresh thyme leaves",
+              "goatCheese": "1/2 cup goat cheese, crumbled",
+              "balsamicReduction": "2 tablespoons balsamic reduction",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Preheat the oven to 400°F (200°C).",
+              "Roll out the puff pastry sheet on a lightly floured surface and transfer it to a baking sheet.",
+              "In a pan, heat butter and olive oil over medium heat. Add thinly sliced onions and cook until caramelized, about 20 minutes.",
+              "Spread the caramelized onions over the puff pastry. Sprinkle with fresh thyme leaves, crumbled goat cheese, salt, and black pepper.",
+              "Bake in the preheated oven for 15-20 minutes or until the pastry is golden brown and puffed.",
+              "Drizzle with balsamic reduction before serving the caramelized onion tart warm."
+            ]
+          },
+          {
+            "id": 53,
+            "name": "Onion Rings",
+            "overview": "Crispy and golden-fried onion rings with a seasoned coating.",
+            "ingredients": {
+              "onions": "2 large onions, cut into rings",
+              "buttermilk": "1 cup buttermilk",
+              "allPurposeFlour": "1 cup all-purpose flour",
+              "cornmeal": "1/2 cup cornmeal",
+              "paprika": "1 teaspoon paprika",
+              "garlicPowder": "1/2 teaspoon garlic powder",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper",
+              "vegetableOil": "2 cups vegetable oil (for frying)"
+            },
+            "instructions": [
+              "Soak onion rings in buttermilk for at least 30 minutes.",
+              "In a bowl, combine all-purpose flour, cornmeal, paprika, garlic powder, salt, and black pepper to create the coating mixture.",
+              "Heat vegetable oil in a deep fryer or large pan to 350°F (175°C).",
+              "Dredge each soaked onion ring in the coating mixture, ensuring they are well coated.",
+              "Fry the coated onion rings in batches until they are golden brown and crispy, about 2-3 minutes per batch.",
+              "Remove with a slotted spoon and drain on paper towels. Serve the crispy onion rings hot."
+            ]
+          },
+          {
+            "id": 54,
+            "name": "Bloomin' Onion",
+            "overview": "A deep-fried whole onion with a seasoned coating, resembling a blooming flower.",
+            "ingredients": {
+              "onion": "1 large onion",
+              "buttermilk": "2 cups buttermilk",
+              "flour": "2 cups all-purpose flour",
+              "paprika": "1 teaspoon paprika",
+              "garlicPowder": "1 teaspoon garlic powder",
+              "cayennePepper": "1/4 teaspoon cayenne pepper",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper",
+              "vegetableOil": "4 cups vegetable oil (for frying)",
+              "dippingSauce": "1/2 cup mayonnaise, 2 tablespoons ketchup, 1 tablespoon horseradish, 1/2 teaspoon paprika"
+            },
+            "instructions": [
+              "Cut the top off the onion and peel the skin, leaving the root intact. Cut the onion into wedges, stopping about 1/2 inch from the root end to keep the layers connected.",
+              "Soak the onion in buttermilk for at least 30 minutes.",
+              "In a bowl, combine all-purpose flour, paprika, garlic powder, cayenne pepper, salt, and black pepper to create the coating mixture.",
+              "Dredge the soaked onion in the coating mixture, making sure to get the mixture between the layers.",
+              "Heat vegetable oil in a deep fryer or large pot to 350°F (175°C). Carefully lower the coated onion into the hot oil and fry for 3-4 minutes or until golden brown and crispy.",
+              "Combine mayonnaise, ketchup, horseradish, and paprika to create the dipping sauce.",
+              "Serve the bloomin' onion hot with the dipping sauce."
+            ]
+          },
+          {
+            "id": 55,
+            "name": "Caramelized Onion and Goat Cheese Pizza",
+            "overview": "Delicious pizza topped with sweet caramelized onions and creamy goat cheese.",
+            "ingredients": {
+              "pizzaDough": "1 pound pizza dough",
+              "onions": "3 large onions, thinly sliced",
+              "butter": "2 tablespoons unsalted butter",
+              "oliveOil": "1 tablespoon olive oil",
+              "goatCheese": "1 cup goat cheese, crumbled",
+              "balsamicReduction": "2 tablespoons balsamic reduction",
+              "rosemary": "1 tablespoon fresh rosemary, chopped",
+              "salt": "1/2 teaspoon salt",
+              "blackPepper": "1/4 teaspoon black pepper"
+            },
+            "instructions": [
+              "Preheat the oven to the highest temperature your oven can go, typically around 475°F (245°C).",
+              "In a pan, melt butter and olive oil over medium heat. Add thinly sliced onions and cook until caramelized, about 20 minutes.",
+              "Roll out the pizza dough on a floured surface and transfer it to a pizza stone or baking sheet.",
+              "Spread the caramelized onions over the pizza dough. Sprinkle crumbled goat cheese, chopped fresh rosemary, salt, and black pepper on top.",
+              "Bake in the preheated oven for 12-15 minutes or until the crust is golden and the cheese is bubbly.",
+              "Drizzle with balsamic reduction before serving the caramelized onion and goat cheese pizza hot."
+            ]
+          },
+          {
+            "id": 56,
+            "name": "Rajma Masala",
+            "overview": "A flavorful kidney bean curry with aromatic spices.",
+            "poster": "rajma_masala.jpg",
+            "ingredients": [
+              "2 cups kidney beans (rajma), soaked and boiled",
+              "1 onion, finely chopped",
+              "2 tomatoes, pureed",
+              "1/2 cup yogurt",
+              "1 tsp ginger-garlic paste",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 tsp garam masala",
+              "1/2 tsp turmeric powder",
+              "1/2 tsp red chili powder",
+              "2 tbsp oil",
+              "Fresh coriander for garnish"
+            ],
+            "instructions": [
+              "Sauté onions in oil until golden brown.",
+              "Add ginger-garlic paste, tomato puree, and spices. Cook until the oil separates.",
+              "Add boiled kidney beans and yogurt. Simmer for 15 minutes.",
+              "Garnish with fresh coriander and serve with rice or naan."
+            ]
+          },
+          {
+            "id": 57,
+            "name": "Spicy Rajma Curry",
+            "overview": "An extra-spicy kidney bean curry for spice lovers.",
+            "poster": "spicy_rajma_curry.jpg",
+            "ingredients": [
+              "2 cups kidney beans (rajma), soaked and boiled",
+              "1 onion, finely chopped",
+              "2 tomatoes, chopped",
+              "1/2 cup tomato puree",
+              "1/2 cup yogurt",
+              "2 green chilies, chopped",
+              "1 tsp ginger-garlic paste",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 tsp garam masala",
+              "1/2 tsp turmeric powder",
+              "1/2 tsp red chili powder",
+              "2 tbsp oil",
+              "Fresh cilantro for garnish"
+            ],
+            "instructions": [
+              "Sauté onions and green chilies in oil until golden brown.",
+              "Add ginger-garlic paste, tomatoes, and spices. Cook until tomatoes are soft.",
+              "Add tomato puree, yogurt, and boiled kidney beans. Simmer for 20 minutes.",
+              "Garnish with fresh cilantro and serve hot."
+            ]
+          },
+          {
+            "id": 58,
+            "name": "Rajma Pulao",
+            "overview": "A one-pot rice dish with kidney beans and aromatic spices.",
+            "poster": "rajma_pulao.jpg",
+            "ingredients": [
+              "1 cup basmati rice, soaked",
+              "1/2 cup kidney beans (rajma), soaked and boiled",
+              "1 onion, thinly sliced",
+              "2 tomatoes, chopped",
+              "1/2 cup yogurt",
+              "1 tsp ginger-garlic paste",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 tsp garam masala",
+              "1/2 tsp turmeric powder",
+              "1/2 tsp red chili powder",
+              "2 tbsp oil",
+              "Fresh mint leaves for garnish"
+            ],
+            "instructions": [
+              "Sauté onions in oil until golden brown.",
+              "Add ginger-garlic paste, tomatoes, and spices. Cook until tomatoes are soft.",
+              "Add boiled kidney beans, yogurt, and soaked rice. Cook until rice is done.",
+              "Garnish with fresh mint leaves and serve hot."
+            ]
+          },
+          {
+            "id": 59,
+            "name": "Rajma Salad",
+            "overview": "A refreshing and protein-packed kidney bean salad.",
+            "poster": "rajma_salad.jpg",
+            "ingredients": [
+              "1 cup kidney beans (rajma), boiled",
+              "1 cucumber, diced",
+              "1 tomato, diced",
+              "1 onion, finely chopped",
+              "1/2 cup boiled corn",
+              "1/4 cup coriander leaves, chopped",
+              "Juice of 1 lemon",
+              "1 tsp chaat masala",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "In a large bowl, combine boiled kidney beans, diced vegetables, and boiled corn.",
+              "Add lemon juice, chaat masala, salt, and pepper. Toss well to combine.",
+              "Garnish with chopped coriander leaves and serve chilled."
+            ]
+          },
+          {
+            "id": 60,
+            "name": "Rajma Wrap",
+            "overview": "A tasty and nutritious wrap filled with spicy kidney beans.",
+            "poster": "rajma_wrap.jpg",
+            "ingredients": [
+              "1 cup kidney beans (rajma), boiled",
+              "1 onion, thinly sliced",
+              "1 tomato, chopped",
+              "1/2 cup cabbage, shredded",
+              "1/4 cup yogurt",
+              "1 tsp ginger-garlic paste",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 tsp garam masala",
+              "1/2 tsp turmeric powder",
+              "1/2 tsp red chili powder",
+              "2 tbsp oil",
+              "Whole wheat wraps"
+            ],
+            "instructions": [
+              "Sauté onions in oil until golden brown.",
+              "Add ginger-garlic paste, tomatoes, and spices. Cook until tomatoes are soft.",
+              "Add boiled kidney beans and yogurt. Simmer for 15 minutes.",
+              "Warm the whole wheat wraps and fill with the rajma mixture. Roll and serve."
+            ]
+          },
+          {
+            "id": 61,
+            "name": "Sattu Sherbat",
+            "overview": "A refreshing summer drink made from roasted gram flour (sattu).",
+            "poster": "sattu_sherbat.jpg",
+            "ingredients": [
+              "2 tbsp sattu (roasted gram flour)",
+              "2 cups cold water",
+              "1 tbsp jaggery or sugar",
+              "1/2 tsp roasted cumin powder",
+              "A pinch of black salt",
+              "Lemon slices for garnish"
+            ],
+            "instructions": [
+              "Mix sattu with cold water and jaggery or sugar until well dissolved.",
+              "Add roasted cumin powder and black salt. Stir well.",
+              "Garnish with lemon slices and serve chilled."
+            ]
+          },
+          {
+            "id": 62,
+            "name": "Ginger Lemon Honey Tea",
+            "overview": "A soothing and immunity-boosting tea with Nepalese flavors.",
+            "poster": "ginger_lemon_honey_tea.jpg",
+            "ingredients": [
+              "1 cup water",
+              "1 tbsp grated ginger",
+              "1 tbsp honey",
+              "1 tbsp lemon juice",
+              "A pinch of turmeric powder",
+              "Cinnamon stick for garnish"
+            ],
+            "instructions": [
+              "Boil water with grated ginger and turmeric powder.",
+              "Strain the tea into a cup and add honey and lemon juice.",
+              "Garnish with a cinnamon stick and enjoy."
+            ]
+          },
+          {
+            "id": 63,
+            "name": "Bel Juice",
+            "overview": "A nutritious and sweet juice made from wood apple (bel).",
+            "poster": "bel_juice.jpg",
+            "ingredients": [
+              "1 bel (wood apple), pulp extracted",
+              "2 cups cold water",
+              "2 tbsp sugar",
+              "A pinch of black salt",
+              "Mint leaves for garnish"
+            ],
+            "instructions": [
+              "Blend bel pulp with cold water until smooth.",
+              "Strain the mixture and add sugar and black salt. Stir well.",
+              "Garnish with mint leaves and serve chilled."
+            ]
+          },
+          {
+            "id": 64,
+            "name": "Aloevera Lemonade",
+            "overview": "A refreshing and healthy lemonade with the goodness of aloe vera.",
+            "poster": "aloevera_lemonade.jpg",
+            "ingredients": [
+              "1 cup aloe vera gel",
+              "2 cups cold water",
+              "3 tbsp honey",
+              "1/4 cup lemon juice",
+              "A pinch of rock salt",
+              "Lemon slices for garnish"
+            ],
+            "instructions": [
+              "Blend aloe vera gel with cold water until well combined.",
+              "Add honey, lemon juice, and rock salt. Mix well.",
+              "Garnish with lemon slices and serve over ice."
+            ]
+          },
+          {
+            "id": 65,
+            "name": "Lassi",
+            "overview": "A traditional Nepalese yogurt-based drink, sweet or salty.",
+            "poster": "lassi.jpg",
+            "ingredients": [
+              "1 cup yogurt",
+              "1/2 cup cold water",
+              "2 tbsp sugar (for sweet lassi) or 1/2 tsp salt (for salty lassi)",
+              "A pinch of cardamom powder",
+              "Crushed ice for serving"
+            ],
+            "instructions": [
+              "Blend yogurt, cold water, and sugar or salt until smooth.",
+              "Add cardamom powder and blend again.",
+              "Serve chilled with crushed ice on top."
+            ]
+          },
+          {
+            "id": 66,
+            "name": "Jamun Juice",
+            "overview": "A vibrant purple juice made from fresh jamun (black plum).",
+            "poster": "jamun_juice.jpg",
+            "ingredients": [
+              "2 cups fresh jamun, deseeded",
+              "1 cup cold water",
+              "2 tbsp honey",
+              "A pinch of black salt",
+              "Mint leaves for garnish"
+            ],
+            "instructions": [
+              "Blend deseeded jamun with cold water until smooth.",
+              "Strain the juice and add honey and black salt. Mix well.",
+              "Garnish with mint leaves and serve chilled."
+            ]
+          },
+          {
+            "id": 67,
+            "name": "Timur Ko Sharbat",
+            "overview": "A unique and spicy drink made from Sichuan pepper (timur).",
+            "poster": "timur_ko_sharbat.jpg",
+            "ingredients": [
+              "1 tsp Sichuan pepper (timur), crushed",
+              "2 cups cold water",
+              "3 tbsp sugar",
+              "1 tbsp lemon juice",
+              "A pinch of black salt"
+            ],
+            "instructions": [
+              "Mix crushed Sichuan pepper with cold water and let it sit for 15 minutes.",
+              "Strain the liquid and add sugar, lemon juice, and black salt. Stir well.",
+              "Serve over ice for a unique and refreshing experience."
+            ]
+          },
+          {
+            "id": 68,
+            "name": "Pomegranate Mint Cooler",
+            "overview": "A fruity and minty cooler with the goodness of pomegranate.",
+            "poster": "pomegranate_mint_cooler.jpg",
+            "ingredients": [
+              "1 cup pomegranate seeds",
+              "1/2 cup mint leaves",
+              "2 cups cold water",
+              "2 tbsp sugar",
+              "A pinch of chaat masala"
+            ],
+            "instructions": [
+              "Blend pomegranate seeds, mint leaves, and cold water until smooth.",
+              "Strain the mixture and add sugar and chaat masala. Mix well.",
+              "Serve over ice for a refreshing drink."
+            ]
+          },
+          {
+            "id": 69,
+            "name": "Gundruk Ko Jhol",
+            "overview": "A traditional Nepalese fermented leaf soup for a unique experience.",
+            "poster": "gundruk_ko_jhol.jpg",
+            "ingredients": [
+              "1 cup gundruk (fermented leafy greens)",
+              "4 cups water",
+              "1 tbsp mustard oil",
+              "1/2 tsp fenugreek seeds",
+              "2 dried red chilies",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "Rinse gundruk thoroughly and soak in water for 30 minutes.",
+              "Heat mustard oil in a pan and add fenugreek seeds and dried red chilies.",
+              "Add soaked gundruk and water. Cook until the soup is flavorful.",
+              "Season with salt and serve hot."
+            ]
+          },
+          {
+            "id": 70,
+            "name": "Chia Seed and Lemon Drink",
+            "overview": "A healthy and hydrating drink with chia seeds and lemon.",
+            "poster": "chia_seed_lemon_drink.jpg",
+            "ingredients": [
+              "2 tbsp chia seeds",
+              "1 cup cold water",
+              "2 tbsp lemon juice",
+              "2 tbsp honey",
+              "Lemon slices for garnish"
+            ],
+            "instructions": [
+              "Soak chia seeds in cold water for at least 1 hour or overnight.",
+              "Add lemon juice and honey to the soaked chia seeds. Mix well.",
+              "Garnish with lemon slices and serve chilled."
+            ]
+          },
+          {
+            "id": 71,
+            "name": "Jollof Rice",
+            "overview": "A flavorful one-pot rice dish with tomatoes, peppers, and spices.",
+            "poster": "jollof_rice.jpg",
+            "ingredients": [
+              "2 cups long-grain parboiled rice",
+              "1/4 cup vegetable oil",
+              "1 onion, finely chopped",
+              "3 tomatoes, blended",
+              "1 red bell pepper, blended",
+              "1 tsp thyme",
+              "1 tsp curry powder",
+              "2 cups chicken or vegetable broth",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "Sauté onions in vegetable oil until translucent.",
+              "Add blended tomatoes, bell pepper, thyme, and curry powder. Cook until the oil separates.",
+              "Add washed rice, broth, salt, and pepper. Cook until rice is done."
+            ]
+          },
+          {
+            "id": 72,
+            "name": "Bobotie",
+            "overview": "A savory baked dish with spiced minced meat and an egg-based topping.",
+            "poster": "bobotie.jpg",
+            "ingredients": [
+              "1 kg minced beef or lamb",
+              "1 onion, finely chopped",
+              "2 slices white bread, soaked in milk",
+              "2 tbsp curry powder",
+              "1 tsp ground coriander",
+              "1/2 cup apricot jam",
+              "3 tbsp vinegar",
+              "2 bay leaves",
+              "4 eggs",
+              "1 cup milk"
+            ],
+            "instructions": [
+              "Preheat oven to 180°C (350°F).",
+              "Sauté onions, add minced meat, and cook until browned.",
+              "Mix in soaked bread, curry powder, coriander, jam, vinegar, and bay leaves.",
+              "Transfer to a baking dish. Beat eggs with milk and pour over the meat mixture.",
+              "Bake until the topping is set and golden brown."
+            ]
+          },
+          {
+            "id": 73,
+            "name": "Chapati",
+            "overview": "Soft and layered unleavened flatbread, a staple in East African cuisine.",
+            "poster": "chapati.jpg",
+            "ingredients": [
+              "2 cups all-purpose flour",
+              "1 cup warm water",
+              "2 tbsp vegetable oil",
+              "1/2 tsp salt",
+              "Butter or ghee for brushing"
+            ],
+            "instructions": [
+              "In a bowl, mix flour and salt. Add water gradually and knead to form a soft dough.",
+              "Divide the dough into small balls. Roll each ball into a thin disc.",
+              "Brush with oil and fold into layers. Cook on a hot griddle until golden brown.",
+              "Brush with butter or ghee before serving."
+            ]
+          },
+          {
+            "id": 74,
+            "name": "Doro Wat",
+            "overview": "A spicy chicken stew, often considered Ethiopia's national dish.",
+            "poster": "doro_wat.jpg",
+            "ingredients": [
+              "1 kg chicken, cut into pieces",
+              "2 large onions, finely chopped",
+              "3 cloves garlic, minced",
+              "1 tsp ginger, grated",
+              "2 tbsp berbere spice",
+              "1/4 cup niter kibbeh (spiced clarified butter)",
+              "1 cup chicken broth",
+              "4 hard-boiled eggs",
+              "Salt to taste"
+            ],
+            "instructions": [
+              "In a pot, sauté onions, garlic, and ginger in niter kibbeh until softened.",
+              "Add berbere spice and cook for a few minutes. Add chicken and brown.",
+              "Pour in chicken broth, cover, and simmer until the chicken is tender.",
+              "Add hard-boiled eggs and cook until the sauce thickens."
+            ]
+          },
+          {
+            "id": 75,
+            "name": "Bunny Chow",
+            "overview": "Hollowed-out loaf filled with curry, a popular street food in South Africa.",
+            "poster": "bunny_chow.jpg",
+            "ingredients": [
+              "1 loaf of unsliced white bread",
+              "500g lamb or chicken curry",
+              "1 onion, thinly sliced",
+              "Chopped cilantro for garnish"
+            ],
+            "instructions": [
+              "Cut the loaf in half and hollow out the center, leaving a bread shell.",
+              "Fill the hollowed-out loaf with your choice of lamb or chicken curry.",
+              "Top with sliced onions and garnish with chopped cilantro. Serve warm."
+            ]
+          },
+          {
+            "id": 76,
+            "name": "Maafe",
+            "overview": "A rich and peanut-based stew, popular in West African countries.",
+            "poster": "maafe.jpg",
+            "ingredients": [
+              "500g beef or chicken, cubed",
+              "1 cup peanut butter",
+              "1 onion, chopped",
+              "2 tomatoes, chopped",
+              "2 sweet potatoes, peeled and diced",
+              "2 cups vegetable broth",
+              "1 tsp ground cayenne pepper",
+              "2 tbsp oil",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "In a pot, brown meat in oil. Add onions and tomatoes, cooking until softened.",
+              "Stir in peanut butter, broth, sweet potatoes, and cayenne pepper.",
+              "Simmer until the sweet potatoes are tender. Season with salt and pepper."
+            ]
+          },
+          {
+            "id": 77,
+            "name": "Couscous Salad",
+            "overview": "A light and refreshing salad made with couscous and Mediterranean flavors.",
+            "poster": "couscous_salad.jpg",
+            "ingredients": [
+              "1 cup couscous, cooked",
+              "1 cucumber, diced",
+              "1 tomato, diced",
+              "1/2 cup feta cheese, crumbled",
+              "1/4 cup black olives, sliced",
+              "2 tbsp olive oil",
+              "Juice of 1 lemon",
+              "Fresh mint leaves for garnish"
+            ],
+            "instructions": [
+              "In a bowl, combine cooked couscous, cucumber, tomato, feta, and olives.",
+              "Drizzle with olive oil and lemon juice. Toss well to combine.",
+              "Garnish with fresh mint leaves and serve chilled."
+            ]
+          },
+          {
+            "id": 78,
+            "name": "Nyama Choma",
+            "overview": "Grilled meat, a popular barbecue dish in East African countries.",
+            "poster": "nyama_choma.jpg",
+            "ingredients": [
+              "1 kg beef or goat meat, cubed",
+              "1/4 cup vegetable oil",
+              "1 onion, finely chopped",
+              "2 tbsp paprika",
+              "1 tbsp garlic powder",
+              "1 tbsp ginger, grated",
+              "Salt and pepper to taste",
+              "Lemon wedges for serving"
+            ],
+            "instructions": [
+              "In a bowl, mix vegetable oil, chopped onion, paprika, garlic powder, and grated ginger.",
+              "Add meat cubes and marinate for at least 2 hours.",
+              "Thread marinated meat onto skewers and grill until cooked. Season with salt and pepper.",
+              "Serve with lemon wedges on the side."
+            ]
+          },
+          {
+            "id": 79,
+            "name": "Briouat (North Africa):",
+            "overview": "Moroccan pastry filled with sweet or savory ingredients, often served during special occasions.",
+            "poster": "briouat.jpg",
+            "ingredients": [
+              "1 cup almonds, ground",
+              "1/4 cup sugar",
+              "1 tsp cinnamon",
+              "1/4 cup orange blossom water",
+              "Phyllo dough sheets",
+              "Butter, melted",
+              "Honey for drizzling",
+              "Powdered sugar for dusting"
+            ],
+            "instructions": [
+              "In a bowl, mix ground almonds, sugar, cinnamon, and orange blossom water.",
+              "Cut phyllo dough into squares. Brush with melted butter and place a spoonful of almond mixture in the center.",
+              "Fold into triangles, sealing the edges. Bake until golden brown.",
+              "Drizzle with honey and dust with powdered sugar before serving."
+            ]
+          },
+          {
+            "id": 80,
+            "name": "Piri Piri Chicken (Southern Africa):",
+            "overview": "Grilled chicken marinated in a spicy Piri Piri sauce, originating from Mozambique.",
+            "poster": "piri_piri_chicken.jpg",
+            "ingredients": [
+              "1 whole chicken, cut into pieces",
+              "1/4 cup Piri Piri sauce",
+              "2 tbsp olive oil",
+              "2 cloves garlic, minced",
+              "1 tsp paprika",
+              "Salt and pepper to taste",
+              "Lemon wedges for serving"
+            ],
+            "instructions": [
+              "In a bowl, mix Piri Piri sauce, olive oil, minced garlic, paprika, salt, and pepper.",
+              "Coat chicken pieces with the marinade and refrigerate for at least 2 hours.",
+              "Grill chicken until fully cooked, basting with the marinade. Serve with lemon wedges."
+            ]
+          },
+          {
+            "id": 81,
+            "name": "Pad Thai (Thailand)",
+            "overview": "A popular Thai stir-fried noodle dish with a perfect balance of sweet, sour, and salty flavors.",
+            "poster": "pad_thai.jpg",
+            "ingredients": [
+              "200g rice noodles",
+              "1 cup tofu, cubed",
+              "2 eggs, beaten",
+              "1 cup bean sprouts",
+              "1/2 cup peanuts, crushed",
+              "2 tbsp fish sauce",
+              "1 tbsp tamarind paste",
+              "1 tbsp sugar",
+              "2 tbsp vegetable oil",
+              "Lime wedges for serving"
+            ],
+            "instructions": [
+              "Soak rice noodles in warm water until softened. Drain and set aside.",
+              "In a wok, heat vegetable oil and stir-fry tofu until golden. Push to one side.",
+              "Pour beaten eggs into the wok, scramble, and mix with tofu.",
+              "Add soaked noodles, fish sauce, tamarind paste, and sugar. Stir-fry until well combined.",
+              "Add bean sprouts and crushed peanuts. Toss everything together. Serve with lime wedges."
+            ]
+          },
+          {
+            "id": 82,
+            "name": "Sushi Rolls (Japan)",
+            "overview": "Delicious bite-sized rolls of vinegared rice, seaweed, and various fillings.",
+            "poster": "sushi_rolls.jpg",
+            "ingredients": [
+              "2 cups sushi rice, cooked",
+              "Nori seaweed sheets",
+              "Assorted fillings (avocado, cucumber, crab sticks, etc.)",
+              "Soy sauce for dipping",
+              "Pickled ginger and wasabi for serving"
+            ],
+            "instructions": [
+              "Place a sheet of nori on a bamboo sushi rolling mat.",
+              "Spread a thin layer of sushi rice over the nori, leaving a small border at the top.",
+              "Add your choice of fillings along the center of the rice.",
+              "Roll the sushi tightly using the bamboo mat. Seal the edge with a little water.",
+              "Slice the roll into bite-sized pieces. Serve with soy sauce, pickled ginger, and wasabi."
+            ]
+          },
+          {
+            "id": 83,
+            "name": "Chicken Adobo (Philippines)",
+            "overview": "A classic Filipino dish of chicken simmered in a savory and tangy soy sauce and vinegar marinade.",
+            "poster": "chicken_adobo.jpg",
+            "ingredients": [
+              "1 kg chicken, cut into serving pieces",
+              "1 onion, sliced",
+              "4 cloves garlic, minced",
+              "1/2 cup soy sauce",
+              "1/4 cup vinegar",
+              "1 tsp peppercorns",
+              "2 bay leaves",
+              "1 cup water",
+              "2 tbsp oil for frying"
+            ],
+            "instructions": [
+              "In a pan, heat oil and sauté garlic and onions until fragrant.",
+              "Add chicken and brown on all sides. Pour in soy sauce, vinegar, water, peppercorns, and bay leaves.",
+              "Simmer until chicken is tender and the sauce has thickened.",
+              "Serve hot over rice."
+            ]
+          },
+          {
+            "id": 84,
+            "name": "Biryani (India)",
+            "overview": "A flavorful and aromatic rice dish with layers of spiced meat, often served with raita or curry.",
+            "poster": "biryani.jpg",
+            "ingredients": [
+              "2 cups basmati rice, soaked",
+              "500g chicken or lamb, cut into pieces",
+              "1 cup yogurt",
+              "2 large onions, thinly sliced",
+              "2 tomatoes, chopped",
+              "1/4 cup biryani masala",
+              "1/2 cup fried onions",
+              "1/4 cup ghee or vegetable oil",
+              "Fresh coriander and mint leaves for garnish"
+            ],
+            "instructions": [
+              "Marinate meat in yogurt, biryani masala, and salt for at least 1 hour.",
+              "In a pot, heat ghee and sauté onions until golden. Add tomatoes and marinated meat.",
+              "Layer soaked rice over the meat. Top with fried onions, coriander, and mint leaves.",
+              "Cover and cook on low heat until the rice is cooked and the meat is tender.",
+              "Serve hot, fluffing the rice gently."
+            ]
+          },
+          {
+            "id": 85,
+            "name": "Kimchi Fried Rice (South Korea)",
+            "overview": "A quick and delicious fried rice dish made with kimchi and other flavorful ingredients.",
+            "poster": "kimchi_fried_rice.jpg",
+            "ingredients": [
+              "2 cups cooked rice, chilled",
+              "1 cup kimchi, chopped",
+              "1/2 cup pork or tofu, diced",
+              "1 carrot, grated",
+              "2 green onions, sliced",
+              "2 tbsp soy sauce",
+              "1 tbsp sesame oil",
+              "1 tsp gochugaru (Korean red pepper flakes)",
+              "Fried eggs for serving"
+            ],
+            "instructions": [
+              "In a pan, sauté pork or tofu until cooked. Add kimchi, carrot, and green onions.",
+              "Stir in chilled rice, soy sauce, sesame oil, and gochugaru. Cook until heated through.",
+              "Serve topped with a fried egg."
+            ]
+          },
+          {
+            "id": 86,
+            "name": "Pho (Vietnam)",
+            "overview": "A Vietnamese noodle soup consisting of broth, rice noodles, and herbs, usually with beef or chicken.",
+            "poster": "pho.jpg",
+            "ingredients": [
+              "500g beef or chicken, thinly sliced",
+              "200g rice noodles, cooked",
+              "1 onion, sliced",
+              "4 cups beef or chicken broth",
+              "2 star anise",
+              "1 cinnamon stick",
+              "1 tbsp fish sauce",
+              "Fresh herbs (basil, mint, cilantro) for garnish",
+              "Bean sprouts and lime wedges for serving"
+            ],
+            "instructions": [
+              "In a pot, sauté onion until fragrant. Add star anise and cinnamon, cooking briefly.",
+              "Pour in broth and fish sauce. Bring to a simmer.",
+              "Divide cooked rice noodles and sliced meat into bowls. Pour hot broth over the top.",
+              "Serve with fresh herbs, bean sprouts, and lime wedges."
+            ]
+          },
+          {
+            "id": 87,
+            "name": "Satay Skewers (Indonesia)",
+            "overview": "Grilled skewers of marinated meat served with a rich and flavorful peanut sauce.",
+            "poster": "satay_skewers.jpg",
+            "ingredients": [
+              "500g chicken or beef, sliced into strips",
+              "1/2 cup soy sauce",
+              "2 tbsp kecap manis (sweet soy sauce)",
+              "1 tbsp sesame oil",
+              "2 cloves garlic, minced",
+              "1 tsp turmeric powder",
+              "Bamboo skewers, soaked in water",
+              "Peanut sauce for dipping"
+            ],
+            "instructions": [
+              "Marinate meat in soy sauce, kecap manis, sesame oil, garlic, and turmeric powder for at least 2 hours.",
+              "Thread marinated meat onto soaked bamboo skewers.",
+              "Grill skewers until cooked. Serve with peanut sauce for dipping."
+            ]
+          },
+          {
+            "id": 88,
+            "name": "Tom Yum Soup (Thailand)",
+            "overview": "A hot and sour Thai soup, usually with shrimp, mushrooms, and fragrant herbs.",
+            "poster": "tom_yum_soup.jpg",
+            "ingredients": [
+              "200g shrimp, peeled and deveined",
+              "4 cups chicken or vegetable broth",
+              "1 lemongrass stalk, bruised",
+              "3 kaffir lime leaves",
+              "2 tbsp fish sauce",
+              "1 tbsp lime juice",
+              "1 tbsp galangal or ginger, sliced",
+              "2 red chilies, sliced",
+              "Coriander leaves for garnish"
+            ],
+            "instructions": [
+              "In a pot, bring broth to a boil. Add lemongrass, kaffir lime leaves, and galangal.",
+              "Add shrimp, fish sauce, lime juice, and sliced chilies. Simmer until shrimp is cooked.",
+              "Remove lemongrass and kaffir lime leaves. Serve hot, garnished with coriander leaves."
+            ]
+          },
+          {
+            "id": 89,
+            "name": "Hainanese Chicken Rice (Singapore)",
+            "overview": "Poached chicken served with fragrant rice and a side of chili sauce and ginger paste.",
+            "poster": "hainanese_chicken_rice.jpg",
+            "ingredients": [
+              "1 whole chicken, about 1.5 kg",
+              "2 cups jasmine rice",
+              "4 cups chicken broth",
+              "2 tbsp soy sauce",
+              "2 tbsp oyster sauce",
+              "1 tbsp sesame oil",
+              "Ginger paste and chili sauce for serving"
+            ],
+            "instructions": [
+              "Rub chicken with salt and rinse. Poach in simmering water until cooked. Save the broth.",
+              "In a rice cooker, cook jasmine rice with chicken broth, soy sauce, oyster sauce, and sesame oil.",
+              "Serve chicken over the cooked rice. Serve with ginger paste and chili sauce on the side."
+            ]
+          },
+          {
+            "id": 90,
+            "name": "Mango Sticky Rice (Thailand)",
+            "overview": "A delightful Thai dessert featuring sweet sticky rice topped with ripe mango slices.",
+            "poster": "mango_sticky_rice.jpg",
+            "ingredients": [
+              "1 cup glutinous rice, soaked",
+              "1 cup coconut milk",
+              "1/2 cup sugar",
+              "A pinch of salt",
+              "2 ripe mangoes, sliced",
+              "Sesame seeds for garnish"
+            ],
+            "instructions": [
+              "Steam soaked glutinous rice until tender.",
+              "In a saucepan, heat coconut milk with sugar and salt until dissolved.",
+              "Pour the coconut mixture over the cooked rice and let it sit for 30 minutes.",
+              "Serve sticky rice topped with sliced mangoes. Garnish with sesame seeds."
+            ]
+          },
+          {
+            "id": 91,
+            "name": "Classic Hamburger (United States)",
+            "overview": "An iconic American dish featuring a ground beef patty in a bun with various toppings.",
+            "poster": "classic_hamburger.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "Salt and pepper to taste",
+              "Hamburger buns",
+              "Lettuce, tomato, onion, pickles for toppings",
+              "Ketchup and mustard for serving"
+            ],
+            "instructions": [
+              "Divide ground beef into patties, season with salt and pepper.",
+              "Grill or cook patties in a pan until desired doneness.",
+              "Place patties in hamburger buns and add desired toppings.",
+              "Serve with ketchup and mustard on the side."
+            ]
+          },
+          {
+            "id": 92,
+            "name": "Macaroni and Cheese (United States)",
+            "overview": "A comforting dish with cooked macaroni pasta in a creamy cheese sauce.",
+            "poster": "macaroni_and_cheese.jpg",
+            "ingredients": [
+              "2 cups elbow macaroni",
+              "2 cups shredded cheddar cheese",
+              "1/2 cup butter",
+              "1/2 cup all-purpose flour",
+              "4 cups milk",
+              "Salt and pepper to taste",
+              "Bread crumbs for topping (optional)"
+            ],
+            "instructions": [
+              "Cook macaroni according to package instructions. Drain and set aside.",
+              "In a saucepan, melt butter. Stir in flour until well combined.",
+              "Gradually whisk in milk until the mixture thickens. Add cheese, salt, and pepper.",
+              "Combine the cheese sauce with cooked macaroni. Top with bread crumbs if desired."
+            ]
+          },
+          {
+            "id": 93,
+            "name": "BBQ Pulled Pork Sandwich (United States)",
+            "overview": "Slow-cooked and shredded pork shoulder with barbecue sauce, served in a bun.",
+            "poster": "bbq_pulled_pork_sandwich.jpg",
+            "ingredients": [
+              "3 lbs pork shoulder",
+              "1 cup barbecue sauce",
+              "1 onion, sliced",
+              "2 cloves garlic, minced",
+              "1 tsp paprika",
+              "1 tsp brown sugar",
+              "Hamburger buns"
+            ],
+            "instructions": [
+              "Rub pork shoulder with paprika, brown sugar, salt, and pepper.",
+              "Place sliced onions and minced garlic in a slow cooker. Add the pork shoulder.",
+              "Pour barbecue sauce over the pork. Cook on low for 8 hours or until the pork is tender.",
+              "Shred the pork and serve in hamburger buns."
+            ]
+          },
+          {
+            "id": 94,
+            "name": "New York Style Cheesecake (United States)",
+            "overview": "A rich and creamy baked cheesecake with a graham cracker crust.",
+            "poster": "ny_style_cheesecake.jpg",
+            "ingredients": [
+              "2 cups graham cracker crumbs",
+              "1/2 cup melted butter",
+              "4 8-ounce packages cream cheese, softened",
+              "1 1/4 cups white sugar",
+              "1 tsp vanilla extract",
+              "4 large eggs",
+              "1 cup sour cream"
+            ],
+            "instructions": [
+              "Preheat oven to 325°F (160°C). Mix graham cracker crumbs with melted butter and press into the bottom of a springform pan.",
+              "In a large bowl, beat cream cheese, sugar, and vanilla until smooth. Add eggs one at a time, beating well after each addition.",
+              "Fold in sour cream. Pour the batter over the crust in the pan.",
+              "Bake for 60-70 minutes or until the center is set. Let it cool before refrigerating."
+            ]
+          },
+          {
+            "id": 95,
+            "name": "Caesar Salad (United States)",
+            "overview": "A classic salad with romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
+            "poster": "caesar_salad.jpg",
+            "ingredients": [
+              "1 head romaine lettuce, torn into bite-sized pieces",
+              "1 cup croutons",
+              "1/2 cup grated parmesan cheese",
+              "1/2 cup Caesar dressing",
+              "Salt and pepper to taste",
+              "Lemon wedges for serving"
+            ],
+            "instructions": [
+              "In a large bowl, combine torn romaine lettuce, croutons, and grated parmesan cheese.",
+              "Add Caesar dressing and toss until well coated. Season with salt and pepper.",
+              "Serve with lemon wedges on the side."
+            ]
+          },
+          {
+            "id": 96,
+            "name": "Chili Con Carne (United States)",
+            "overview": "A hearty and spicy stew with ground beef, beans, tomatoes, and chili spices.",
+            "poster": "chili_con_carne.jpg",
+            "ingredients": [
+              "1 lb ground beef",
+              "1 onion, chopped",
+              "2 cloves garlic, minced",
+              "1 can (14 oz) diced tomatoes",
+              "1 can (14 oz) kidney beans, drained and rinsed",
+              "2 tbsp chili powder",
+              "1 tsp cumin",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "In a large pot, brown ground beef. Add chopped onions and minced garlic.",
+              "Stir in diced tomatoes, kidney beans, chili powder, cumin, salt, and pepper.",
+              "Simmer for at least 30 minutes. Serve hot."
+            ]
+          },
+          {
+            "id": 97,
+            "name": "Southern Fried Chicken (United States)",
+            "overview": "Crispy and golden fried chicken with a seasoned coating.",
+            "poster": "southern_fried_chicken.jpg",
+            "ingredients": [
+              "2 lbs chicken pieces",
+              "2 cups buttermilk",
+              "2 cups all-purpose flour",
+              "1 tbsp paprika",
+              "1 tbsp garlic powder",
+              "1 tsp cayenne pepper",
+              "Vegetable oil for frying"
+            ],
+            "instructions": [
+              "Soak chicken pieces in buttermilk for at least 2 hours or overnight.",
+              "In a bowl, mix flour, paprika, garlic powder, and cayenne pepper.",
+              "Dredge chicken in the flour mixture, ensuring even coating.",
+              "Fry chicken in hot oil until golden brown and cooked through."
+            ]
+          },
+          {
+            "id": 98,
+            "name": "Clam Chowder (United States)",
+            "overview": "A creamy soup with clams, potatoes, onions, and bacon.",
+            "poster": "clam_chowder.jpg",
+            "ingredients": [
+              "2 cups chopped clams",
+              "4 cups potatoes, diced",
+              "1 cup onion, chopped",
+              "1 cup celery, chopped",
+              "4 slices bacon, chopped",
+              "4 cups milk",
+              "1/2 cup all-purpose flour",
+              "3 tbsp butter",
+              "Salt and pepper to taste"
+            ],
+            "instructions": [
+              "In a pot, cook bacon until crisp. Add onions and celery, sauté until softened.",
+              "Stir in flour and cook for 1-2 minutes. Gradually whisk in milk.",
+              "Add diced potatoes and chopped clams. Simmer until potatoes are tender.",
+              "Season with salt and pepper. Serve hot."
+            ]
+          },
+          {
+            "id": 99,
+            "name": "Buffalo Wings (United States)",
+            "overview": "Crispy chicken wings coated in spicy buffalo sauce, served with blue cheese dressing.",
+            "poster": "buffalo_wings.jpg",
+            "ingredients": [
+              "2 lbs chicken wings, split at joints, tips discarded",
+              "1/2 cup hot sauce",
+              "1/2 cup unsalted butter, melted",
+              "1/4 cup all-purpose flour",
+              "Vegetable oil for frying",
+              "Celery sticks and blue cheese dressing for serving"
+            ],
+            "instructions": [
+              "In a bowl, coat chicken wings with flour. Heat oil in a deep fryer or large pot.",
+              "Fry wings until golden brown and crispy. In a separate bowl, mix hot sauce and melted butter.",
+              "Toss fried wings in the buffalo sauce. Serve with celery sticks and blue cheese dressing."
+            ]
+          },
+          {
+            "id": 100,
+            "name": "Pecan Pie (United States)",
+            "overview": "A sweet and gooey pie filled with pecans, corn syrup, and sugar.",
+            "poster": "pecan_pie.jpg",
+            "ingredients": [
+              "1 9-inch pie crust, unbaked",
+              "1 1/2 cups pecan halves",
+              "3 large eggs",
+              "1 cup light corn syrup",
+              "1/2 cup granulated sugar",
+              "1/4 cup unsalted butter, melted",
+              "1 tsp vanilla extract",
+              "A pinch of salt"
+            ],
+            "instructions": [
+              "Preheat oven to 350°F (175°C). Place pie crust in a pie dish and crimp the edges.",
+              "In a bowl, whisk together eggs, corn syrup, sugar, melted butter, vanilla extract, and salt.",
+              "Stir in pecan halves. Pour the mixture into the unbaked pie crust.",
+              "Bake for 50-60 minutes or until the center is set. Let it cool before serving."
+            ]
+          }
+
+          
+
+      
+    ],
+    "featuredrecipes":[
+      {
+        "id": 101,
+        "name": "Dhido ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "A traditional Nepalese dish made from buckwheat or millet flour, usually served with various accompaniments.",
+        
+        "ingredients": [
+          "2 cups buckwheat or millet flour",
+          "Water, as needed",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "In a large mixing bowl, gradually add water to the flour while continuously stirring to form a stiff and sticky dough.",
+          "Bring a large pot of water to a boil. Reduce the heat to a simmer.",
+          "Take a small portion of the dough and shape it into a round ball. Dip your fingers in water to prevent sticking.",
+          "Hold the dough ball over the pot and use your thumb to press the center, creating a hole. Rotate and repeat until a circular shape is formed.",
+          "Drop the shaped dough into the simmering water. Cook until it solidifies and floats to the surface.",
+          "Remove the cooked dhido from the water and let it cool slightly.",
+          "Serve dhido with various accompaniments such as Gundruk (fermented leafy greens), Achar (pickle), and perhaps some curry."
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Dhido with Gundruk Curry ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "A classic Nepalese Dhido recipe served with flavorful Gundruk curry.",
+        
+        "ingredients": [
+          "2 cups buckwheat or millet flour",
+          "Water, as needed",
+          "Salt to taste",
+          "1 cup gundruk (fermented leafy greens)",
+          "2 tomatoes, chopped",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1 tsp cumin seeds",
+          "1 tsp turmeric powder",
+          "2 tbsp vegetable oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Follow the basic Dhido preparation steps to make the dough and cook the dhido.",
+          "In a separate pan, heat vegetable oil. Add cumin seeds and let them splutter.",
+          "Add chopped onions and garlic. Sauté until onions are translucent.",
+          "Add chopped tomatoes, turmeric powder, salt, and pepper. Cook until tomatoes are soft.",
+          "Stir in gundruk and cook for an additional 5 minutes.",
+          "Serve the Dhido with Gundruk Curry on the side."
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Dhido with Chicken Curry ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Dhido served alongside a flavorful Nepalese chicken curry.",
+        
+        
+        "ingredients": [
+          "2 cups buckwheat or millet flour",
+          "Water, as needed",
+          "Salt to taste",
+          "1 kg chicken, cut into pieces",
+          "2 onions, finely chopped",
+          "3 tomatoes, pureed",
+          "2 cloves garlic, minced",
+          "1-inch ginger, grated",
+          "2 tsp cumin powder",
+          "2 tsp coriander powder",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "2 tbsp vegetable oil",
+          "Fresh coriander leaves for garnish",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Prepare Dhido following the basic steps.",
+          "In a separate pot, heat vegetable oil. Add chopped onions, garlic, and ginger. Sauté until golden brown.",
+          "Add chicken pieces and cook until browned. Add cumin powder, coriander powder, turmeric, red chili powder, salt, and pepper.",
+          "Pour in the tomato puree and cook until the chicken is tender and the curry thickens.",
+          "Serve the Dhido with Chicken Curry, garnished with fresh coriander leaves."
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Dal Bhat ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "The staple dish of Nepal, featuring lentil soup (dal) served with rice (bhat) and various accompaniments.",
+        
+        "ingredients": [
+          "1 cup lentils (red or yellow)",
+          "2 cups rice",
+          "1 onion, finely chopped",
+          "3 tomatoes, chopped",
+          "2 cloves garlic, minced",
+          "1 tsp cumin seeds",
+          "1 tsp turmeric powder",
+          "2 tbsp ghee (clarified butter)",
+          "Fresh coriander leaves for garnish",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Boil lentils in water until soft. In a separate pot, cook rice.",
+          "In a pan, heat ghee. Add cumin seeds, chopped onions, and minced garlic. Sauté until golden brown.",
+          "Add chopped tomatoes, turmeric powder, salt, and pepper. Cook until tomatoes are soft.",
+          "Mix the cooked lentils into the tomato mixture. Simmer until flavors meld.",
+          "Serve Dal Bhat with rice. Garnish with fresh coriander leaves."
+        ]
+      },
+      {
+        "id": 106,
+        "name": "Momos ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Delicious dumplings filled with spiced meat or vegetables, often served with a tangy dipping sauce.",
+        
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1 cup ground meat (chicken, lamb, or buffalo) or vegetables",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1-inch ginger, grated",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1 tsp turmeric powder",
+          "Salt and pepper to taste",
+          "Vegetable oil for frying",
+          "Soy sauce and vinegar for dipping"
+        ],
+        "instructions": [
+          "Mix flour with water to form a smooth dough. Roll the dough into small, thin circles.",
+          "In a bowl, mix ground meat or vegetables with chopped onions, minced garlic, grated ginger, cumin powder, coriander powder, turmeric, salt, and pepper.",
+          "Place a spoonful of the filling in the center of each dough circle. Fold and seal the edges to form dumplings.",
+          "Steam the momos until cooked. Optionally, pan-fry for a crispy texture.",
+          "Serve Momos hot with a dipping sauce made with soy sauce and vinegar."
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Yomari ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "A traditional Newari dessert, Yomari consists of steamed rice dumplings filled with sweet fillings like jaggery and sesame seeds.",
+        
+        "ingredients": [
+          "2 cups rice flour",
+          "1 cup jaggery (or brown sugar), grated",
+          "1/2 cup sesame seeds",
+          "1/2 cup grated coconut",
+          "1/2 tsp cardamom powder",
+          "Water, as needed",
+          "Banana leaves for wrapping"
+        ],
+        "instructions": [
+          "Mix rice flour with water to form a smooth, thick batter.",
+          "In a separate bowl, mix grated jaggery, sesame seeds, grated coconut, and cardamom powder.",
+          "Shape the rice flour batter into small cups. Fill each cup with the sweet filling mixture.",
+          "Seal the cups and wrap them in banana leaves. Steam until the dumplings are cooked.",
+          "Serve Yomari as a traditional dessert."
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Dhau ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "Nepali yogurt, often served as a sweet treat with various toppings.",
+        
+        "ingredients": [
+          "1 liter milk",
+          "2 tbsp plain yogurt (as a starter)",
+          "Sugar or honey to taste",
+          "Assorted fruits and nuts for topping"
+        ],
+        "instructions": [
+          "Boil the milk and let it cool until it's warm but not hot.",
+          "Mix plain yogurt into the warm milk as a starter culture. Cover and let it sit in a warm place for 6-8 hours until it thickens.",
+          "Sweeten the yogurt with sugar or honey to taste.",
+          "Serve Dhau chilled, topped with assorted fruits and nuts."
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Sel Roti",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "A traditional rice doughnut, crispy on the outside and soft on the inside, often enjoyed during festivals.",
+        
+        "ingredients": [
+          "2 cups rice flour",
+          "1/2 cup soaked rice",
+          "1/2 cup grated coconut",
+          "1/2 tsp fenugreek seeds",
+          "1/2 tsp baking soda",
+          "Water, as needed",
+          "Vegetable oil for frying"
+        ],
+        "instructions": [
+          "Soak rice and fenugreek seeds for a few hours. Blend into a smooth batter.",
+          "Mix rice flour, grated coconut, and baking soda into the batter. Add water to achieve a thick consistency.",
+          "Heat oil in a pan. Pour a ladle of batter into the hot oil to form a doughnut shape.",
+          "Fry until golden brown on both sides. Serve Sel Roti warm."
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Gundruk ",
+        "poster":"https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2hpY2tlbiUyMFBhcm1lc2FufGVufDB8fDB8fHww",
+        "overview": "A traditional fermented leafy greens dish, Gundruk is a staple in Nepali cuisine.",
+       
+        "ingredients": [
+          "2 cups mustard greens or radish leaves",
+          "1 tsp turmeric powder",
+          "1 tsp fenugreek seeds",
+          "Salt to taste",
+          "Water, as needed"
+        ],
+        "instructions": [
+          "Clean and finely chop the mustard greens or radish leaves.",
+          "Add turmeric powder, fenugreek seeds, and salt. Mix well.",
+          "Pack the mixture tightly in a jar, ensuring there is no air inside. Add water to submerge the greens.",
+          "Leave the jar in a warm place for 3-4 days until the greens are fermented and have a distinct sour taste.",
+          "Gundruk is ready to be served as a side dish with rice or used in various recipes."
+        ]
+      }
+      
+      
+      
+      
+    ]
+  }
