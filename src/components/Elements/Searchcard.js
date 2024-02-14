@@ -1,10 +1,10 @@
 
-import {useParams}  from 'react-router-dom';
+
 import { Link } from 'react-router-dom';
 export const Searchcard = ({recipe}) => {
     
     
-    const params=useParams();
+    
     return (
       <div className="m-3 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
           <Link to={`/results/${recipe.id}`} className="relative" >
