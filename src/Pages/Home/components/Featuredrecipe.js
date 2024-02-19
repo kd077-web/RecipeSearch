@@ -8,7 +8,7 @@ export const Featuredrecipe = () => {
   const[recipes,setrecipes]=useState([]);
   useEffect(()=>{
     async function fetchrecipes(){
-      const response=await fetch( '  http://localhost:9000/featuredrecipes');
+      const response=await fetch( `${process.env.REACT_APP_HOST}/featuredrecipes`);
       const data= await response.json();
       setrecipes(data);
     }

@@ -7,7 +7,7 @@ export const Recipelist = () => {
   const[recipes,setrecipes]=useState([]);
   useEffect(()=>{
     async function fetchrecipes(){
-      const response=await fetch( ' http://localhost:9000/Recipes');
+      const response=await fetch( `${process.env.REACT_APP_HOST}/Recipes`);
       const data= await response.json();
       setrecipes(data);
     }
